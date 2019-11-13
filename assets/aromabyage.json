@@ -1,0 +1,1334 @@
+[
+	{
+		"AROMADESCR": "VANILLA ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΠΑΙΔΙΚΟ",
+		"AROMAID": "57"
+	},
+	{
+		"AROMADESCR": "VANILLA CARAMEL ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΠΑΙΔΙΚΟ",
+		"AROMAID": "58"
+	},
+	{
+		"AROMADESCR": "ABER CROBIE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "1"
+	},
+	{
+		"AROMADESCR": "ACAPULCO HEAT ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "2"
+	},
+	{
+		"AROMADESCR": "ALLURE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "3"
+	},
+	{
+		"AROMADESCR": "AMOROUS ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "4"
+	},
+	{
+		"AROMADESCR": "ANGEL ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "5"
+	},
+	{
+		"AROMADESCR": "APPLE PIE & SPICE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "8"
+	},
+	{
+		"AROMADESCR": "APRICOT GINGER TEA ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "9"
+	},
+	{
+		"AROMADESCR": "BITTER ALMOND ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "12"
+	},
+	{
+		"AROMADESCR": "BLACK CHERRY ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "13"
+	},
+	{
+		"AROMADESCR": "CAFÉ ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "16"
+	},
+	{
+		"AROMADESCR": "CALYPSO ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "17"
+	},
+	{
+		"AROMADESCR": "CHEESECAKE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "18"
+	},
+	{
+		"AROMADESCR": "CHOCOLATE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "19"
+	},
+	{
+		"AROMADESCR": "CITY GIRL ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "20"
+	},
+	{
+		"AROMADESCR": "COOKIES ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "22"
+	},
+	{
+		"AROMADESCR": "DULCE DE LECHE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "25"
+	},
+	{
+		"AROMADESCR": "EGYPTIAN COTTON",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "26"
+	},
+	{
+		"AROMADESCR": "FRESH BAKED BREAD ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "27"
+	},
+	{
+		"AROMADESCR": "GRAPES ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "29"
+	},
+	{
+		"AROMADESCR": "GUAVA PINAPPLE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "30"
+	},
+	{
+		"AROMADESCR": "HAYRIDE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "31"
+	},
+	{
+		"AROMADESCR": "HAZELNUT COFFEE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "32"
+	},
+	{
+		"AROMADESCR": "HOTEL CLEAN & FRESH ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "34"
+	},
+	{
+		"AROMADESCR": "JEWEL OF THE NILE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "35"
+	},
+	{
+		"AROMADESCR": "MANGO DELIGHT ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "39"
+	},
+	{
+		"AROMADESCR": "MARVELOUS MUSK ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "41"
+	},
+	{
+		"AROMADESCR": "MELON FRESH ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "42"
+	},
+	{
+		"AROMADESCR": "ORIGINAL MANGO ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "45"
+	},
+	{
+		"AROMADESCR": "P&S SIGNATURE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "47"
+	},
+	{
+		"AROMADESCR": "PEACH ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "49"
+	},
+	{
+		"AROMADESCR": "PIZZA ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "52"
+	},
+	{
+		"AROMADESCR": "VANILLA ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "57"
+	},
+	{
+		"AROMADESCR": "VANILLA CARAMEL ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΦΗΒΙΚΟ",
+		"AROMAID": "58"
+	},
+	{
+		"AROMADESCR": "ABER CROBIE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "1"
+	},
+	{
+		"AROMADESCR": "ACAPULCO HEAT ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "2"
+	},
+	{
+		"AROMADESCR": "ALLURE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "3"
+	},
+	{
+		"AROMADESCR": "ANGEL ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "5"
+	},
+	{
+		"AROMADESCR": "APPLE PIE & SPICE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "8"
+	},
+	{
+		"AROMADESCR": "APRICOT GINGER TEA ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "9"
+	},
+	{
+		"AROMADESCR": "ARISTO ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "10"
+	},
+	{
+		"AROMADESCR": "BITTER ALMOND ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "12"
+	},
+	{
+		"AROMADESCR": "BLACK CHERRY ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "13"
+	},
+	{
+		"AROMADESCR": "BRANDY APPLE",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "15"
+	},
+	{
+		"AROMADESCR": "CAFÉ ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "16"
+	},
+	{
+		"AROMADESCR": "CALYPSO ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "17"
+	},
+	{
+		"AROMADESCR": "CHEESECAKE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "18"
+	},
+	{
+		"AROMADESCR": "CHOCOLATE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "19"
+	},
+	{
+		"AROMADESCR": "CITY GIRL ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "20"
+	},
+	{
+		"AROMADESCR": "COLONIAL ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "21"
+	},
+	{
+		"AROMADESCR": "COOKIES ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "22"
+	},
+	{
+		"AROMADESCR": "CYCLADES",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "24"
+	},
+	{
+		"AROMADESCR": "DULCE DE LECHE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "25"
+	},
+	{
+		"AROMADESCR": "EGYPTIAN COTTON",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "26"
+	},
+	{
+		"AROMADESCR": "FRESH BAKED BREAD ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "27"
+	},
+	{
+		"AROMADESCR": "GLAMOUR ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "28"
+	},
+	{
+		"AROMADESCR": "GRAPES ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "29"
+	},
+	{
+		"AROMADESCR": "GUAVA PINAPPLE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "30"
+	},
+	{
+		"AROMADESCR": "HAYRIDE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "31"
+	},
+	{
+		"AROMADESCR": "HAZELNUT COFFEE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "32"
+	},
+	{
+		"AROMADESCR": "HERMES ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "33"
+	},
+	{
+		"AROMADESCR": "HOTEL CLEAN & FRESH ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "34"
+	},
+	{
+		"AROMADESCR": "JEWEL OF THE NILE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "35"
+	},
+	{
+		"AROMADESCR": "KITCHEN CLEAR",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "36"
+	},
+	{
+		"AROMADESCR": "LEMON VERBENA ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "38"
+	},
+	{
+		"AROMADESCR": "MANGO DELIGHT ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "39"
+	},
+	{
+		"AROMADESCR": "MARTINES ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "40"
+	},
+	{
+		"AROMADESCR": "MARVELOUS MUSK ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "41"
+	},
+	{
+		"AROMADESCR": "MELON FRESH ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "42"
+	},
+	{
+		"AROMADESCR": "MILLION ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "43"
+	},
+	{
+		"AROMADESCR": "OBSESSION ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "44"
+	},
+	{
+		"AROMADESCR": "ORIGINAL MANGO ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "45"
+	},
+	{
+		"AROMADESCR": "OUD WOOD",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "46"
+	},
+	{
+		"AROMADESCR": "P&S SIGNATURE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "47"
+	},
+	{
+		"AROMADESCR": "PATHOS ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "48"
+	},
+	{
+		"AROMADESCR": "PEACH ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "49"
+	},
+	{
+		"AROMADESCR": "PINA COLADA ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "50"
+	},
+	{
+		"AROMADESCR": "PIZZA ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "52"
+	},
+	{
+		"AROMADESCR": "RELAX",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "53"
+	},
+	{
+		"AROMADESCR": "RISQUE",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "54"
+	},
+	{
+		"AROMADESCR": "STRAWBERRY DAQUIRI",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "55"
+	},
+	{
+		"AROMADESCR": "TOBACCO VANILLA",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "56"
+	},
+	{
+		"AROMADESCR": "VANILLA ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "57"
+	},
+	{
+		"AROMADESCR": "VANILLA CARAMEL ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "58"
+	},
+	{
+		"AROMADESCR": "VITALITY AIR ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "59"
+	},
+	{
+		"AROMADESCR": "WHITE CHAMPAGNE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΝΕΑΝΙΚΟ",
+		"AROMAID": "60"
+	},
+	{
+		"AROMADESCR": "ABER CROBIE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "1"
+	},
+	{
+		"AROMADESCR": "ACAPULCO HEAT ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "2"
+	},
+	{
+		"AROMADESCR": "ALLURE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "3"
+	},
+	{
+		"AROMADESCR": "ANGEL ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "5"
+	},
+	{
+		"AROMADESCR": "ANTITOBACCO ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "6"
+	},
+	{
+		"AROMADESCR": "APOLLONIA ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "7"
+	},
+	{
+		"AROMADESCR": "APPLE PIE & SPICE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "8"
+	},
+	{
+		"AROMADESCR": "APRICOT GINGER TEA ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "9"
+	},
+	{
+		"AROMADESCR": "ARISTO ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "10"
+	},
+	{
+		"AROMADESCR": "BITTER ALMOND ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "12"
+	},
+	{
+		"AROMADESCR": "BLACK CHERRY ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "13"
+	},
+	{
+		"AROMADESCR": "BLACK ORCHID",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "14"
+	},
+	{
+		"AROMADESCR": "BRANDY APPLE",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "15"
+	},
+	{
+		"AROMADESCR": "CAFÉ ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "16"
+	},
+	{
+		"AROMADESCR": "CALYPSO ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "17"
+	},
+	{
+		"AROMADESCR": "CHEESECAKE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "18"
+	},
+	{
+		"AROMADESCR": "CHOCOLATE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "19"
+	},
+	{
+		"AROMADESCR": "CITY GIRL ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "20"
+	},
+	{
+		"AROMADESCR": "COLONIAL ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "21"
+	},
+	{
+		"AROMADESCR": "COOKIES ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "22"
+	},
+	{
+		"AROMADESCR": "CORAL ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "23"
+	},
+	{
+		"AROMADESCR": "CYCLADES",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "24"
+	},
+	{
+		"AROMADESCR": "DULCE DE LECHE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "25"
+	},
+	{
+		"AROMADESCR": "EGYPTIAN COTTON",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "26"
+	},
+	{
+		"AROMADESCR": "FRESH BAKED BREAD ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "27"
+	},
+	{
+		"AROMADESCR": "GLAMOUR ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "28"
+	},
+	{
+		"AROMADESCR": "GRAPES ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "29"
+	},
+	{
+		"AROMADESCR": "GUAVA PINAPPLE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "30"
+	},
+	{
+		"AROMADESCR": "HAYRIDE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "31"
+	},
+	{
+		"AROMADESCR": "HAZELNUT COFFEE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "32"
+	},
+	{
+		"AROMADESCR": "HERMES ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "33"
+	},
+	{
+		"AROMADESCR": "HOTEL CLEAN & FRESH ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "34"
+	},
+	{
+		"AROMADESCR": "JEWEL OF THE NILE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "35"
+	},
+	{
+		"AROMADESCR": "KITCHEN CLEAR",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "36"
+	},
+	{
+		"AROMADESCR": "LEATHER BLEND ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "37"
+	},
+	{
+		"AROMADESCR": "LEMON VERBENA ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "38"
+	},
+	{
+		"AROMADESCR": "MANGO DELIGHT ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "39"
+	},
+	{
+		"AROMADESCR": "MARTINES ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "40"
+	},
+	{
+		"AROMADESCR": "MARVELOUS MUSK ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "41"
+	},
+	{
+		"AROMADESCR": "MELON FRESH ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "42"
+	},
+	{
+		"AROMADESCR": "MILLION ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "43"
+	},
+	{
+		"AROMADESCR": "OBSESSION ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "44"
+	},
+	{
+		"AROMADESCR": "ORIGINAL MANGO ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "45"
+	},
+	{
+		"AROMADESCR": "OUD WOOD",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "46"
+	},
+	{
+		"AROMADESCR": "P&S SIGNATURE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "47"
+	},
+	{
+		"AROMADESCR": "PATHOS ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "48"
+	},
+	{
+		"AROMADESCR": "PEACH ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "49"
+	},
+	{
+		"AROMADESCR": "PINA COLADA ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "50"
+	},
+	{
+		"AROMADESCR": "PINE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "51"
+	},
+	{
+		"AROMADESCR": "PIZZA ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "52"
+	},
+	{
+		"AROMADESCR": "RELAX",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "53"
+	},
+	{
+		"AROMADESCR": "RISQUE",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "54"
+	},
+	{
+		"AROMADESCR": "STRAWBERRY DAQUIRI",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "55"
+	},
+	{
+		"AROMADESCR": "TOBACCO VANILLA",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "56"
+	},
+	{
+		"AROMADESCR": "VANILLA ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "57"
+	},
+	{
+		"AROMADESCR": "VANILLA CARAMEL ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "58"
+	},
+	{
+		"AROMADESCR": "VITALITY AIR ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "59"
+	},
+	{
+		"AROMADESCR": "WHITE CHAMPAGNE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΕΝΗΛΙΚΕΣ",
+		"AROMAID": "60"
+	},
+	{
+		"AROMADESCR": "ALLURE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "3"
+	},
+	{
+		"AROMADESCR": "ANGEL ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "5"
+	},
+	{
+		"AROMADESCR": "ANTITOBACCO ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "6"
+	},
+	{
+		"AROMADESCR": "APOLLONIA ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "7"
+	},
+	{
+		"AROMADESCR": "APPLE PIE & SPICE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "8"
+	},
+	{
+		"AROMADESCR": "APRICOT GINGER TEA ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "9"
+	},
+	{
+		"AROMADESCR": "ARISTO ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "10"
+	},
+	{
+		"AROMADESCR": "BITTER ALMOND ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "12"
+	},
+	{
+		"AROMADESCR": "BLACK ORCHID",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "14"
+	},
+	{
+		"AROMADESCR": "BRANDY APPLE",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "15"
+	},
+	{
+		"AROMADESCR": "CAFÉ ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "16"
+	},
+	{
+		"AROMADESCR": "CALYPSO ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "17"
+	},
+	{
+		"AROMADESCR": "CHEESECAKE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "18"
+	},
+	{
+		"AROMADESCR": "CHOCOLATE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "19"
+	},
+	{
+		"AROMADESCR": "COLONIAL ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "21"
+	},
+	{
+		"AROMADESCR": "COOKIES ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "22"
+	},
+	{
+		"AROMADESCR": "CORAL ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "23"
+	},
+	{
+		"AROMADESCR": "CYCLADES",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "24"
+	},
+	{
+		"AROMADESCR": "DULCE DE LECHE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "25"
+	},
+	{
+		"AROMADESCR": "EGYPTIAN COTTON",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "26"
+	},
+	{
+		"AROMADESCR": "FRESH BAKED BREAD ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "27"
+	},
+	{
+		"AROMADESCR": "GLAMOUR ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "28"
+	},
+	{
+		"AROMADESCR": "GRAPES ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "29"
+	},
+	{
+		"AROMADESCR": "HAYRIDE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "31"
+	},
+	{
+		"AROMADESCR": "HAZELNUT COFFEE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "32"
+	},
+	{
+		"AROMADESCR": "HERMES ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "33"
+	},
+	{
+		"AROMADESCR": "HOTEL CLEAN & FRESH ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "34"
+	},
+	{
+		"AROMADESCR": "JEWEL OF THE NILE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "35"
+	},
+	{
+		"AROMADESCR": "KITCHEN CLEAR",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "36"
+	},
+	{
+		"AROMADESCR": "LEATHER BLEND ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "37"
+	},
+	{
+		"AROMADESCR": "LEMON VERBENA ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "38"
+	},
+	{
+		"AROMADESCR": "MARTINES ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "40"
+	},
+	{
+		"AROMADESCR": "MILLION ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "43"
+	},
+	{
+		"AROMADESCR": "OBSESSION ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "44"
+	},
+	{
+		"AROMADESCR": "ORIGINAL MANGO ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "45"
+	},
+	{
+		"AROMADESCR": "OUD WOOD",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "46"
+	},
+	{
+		"AROMADESCR": "P&S SIGNATURE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "47"
+	},
+	{
+		"AROMADESCR": "PATHOS ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "48"
+	},
+	{
+		"AROMADESCR": "PINE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "51"
+	},
+	{
+		"AROMADESCR": "PIZZA ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "52"
+	},
+	{
+		"AROMADESCR": "RELAX",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "53"
+	},
+	{
+		"AROMADESCR": "RISQUE",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "54"
+	},
+	{
+		"AROMADESCR": "STRAWBERRY DAQUIRI",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "55"
+	},
+	{
+		"AROMADESCR": "TOBACCO VANILLA",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "56"
+	},
+	{
+		"AROMADESCR": "VANILLA ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "57"
+	},
+	{
+		"AROMADESCR": "VANILLA CARAMEL ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "58"
+	},
+	{
+		"AROMADESCR": "VITALITY AIR ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "59"
+	},
+	{
+		"AROMADESCR": "WHITE CHAMPAGNE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΜΕΣΗΛΙΚΕΣ",
+		"AROMAID": "60"
+	},
+	{
+		"AROMADESCR": "AMOROUS ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΒΡΕΦΙΚΟ",
+		"AROMAID": "4"
+	},
+	{
+		"AROMADESCR": "BABY POWDER ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΒΡΕΦΙΚΟ",
+		"AROMAID": "11"
+	},
+	{
+		"AROMADESCR": "BLACK CHERRY ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΒΡΕΦΙΚΟ",
+		"AROMAID": "13"
+	},
+	{
+		"AROMADESCR": "CHEESECAKE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΒΡΕΦΙΚΟ",
+		"AROMAID": "18"
+	},
+	{
+		"AROMADESCR": "CHOCOLATE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΒΡΕΦΙΚΟ",
+		"AROMAID": "19"
+	},
+	{
+		"AROMADESCR": "COOKIES ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΒΡΕΦΙΚΟ",
+		"AROMAID": "22"
+	},
+	{
+		"AROMADESCR": "HOTEL CLEAN & FRESH ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΒΡΕΦΙΚΟ",
+		"AROMAID": "34"
+	},
+	{
+		"AROMADESCR": "MELON FRESH ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΒΡΕΦΙΚΟ",
+		"AROMAID": "42"
+	},
+	{
+		"AROMADESCR": "VANILLA ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΒΡΕΦΙΚΟ",
+		"AROMAID": "57"
+	},
+	{
+		"AROMADESCR": "VANILLA CARAMEL ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΒΡΕΦΙΚΟ",
+		"AROMAID": "58"
+	},
+	{
+		"AROMADESCR": "ACAPULCO HEAT ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΠΑΙΔΙΚΟ",
+		"AROMAID": "2"
+	},
+	{
+		"AROMADESCR": "AMOROUS ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΠΑΙΔΙΚΟ",
+		"AROMAID": "4"
+	},
+	{
+		"AROMADESCR": "APPLE PIE & SPICE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΠΑΙΔΙΚΟ",
+		"AROMAID": "8"
+	},
+	{
+		"AROMADESCR": "BABY POWDER ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΠΑΙΔΙΚΟ",
+		"AROMAID": "11"
+	},
+	{
+		"AROMADESCR": "BITTER ALMOND ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΠΑΙΔΙΚΟ",
+		"AROMAID": "12"
+	},
+	{
+		"AROMADESCR": "BLACK CHERRY ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΠΑΙΔΙΚΟ",
+		"AROMAID": "13"
+	},
+	{
+		"AROMADESCR": "CHEESECAKE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΠΑΙΔΙΚΟ",
+		"AROMAID": "18"
+	},
+	{
+		"AROMADESCR": "CHOCOLATE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΠΑΙΔΙΚΟ",
+		"AROMAID": "19"
+	},
+	{
+		"AROMADESCR": "COOKIES ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΠΑΙΔΙΚΟ",
+		"AROMAID": "22"
+	},
+	{
+		"AROMADESCR": "EGYPTIAN COTTON",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΠΑΙΔΙΚΟ",
+		"AROMAID": "26"
+	},
+	{
+		"AROMADESCR": "GRAPES ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΠΑΙΔΙΚΟ",
+		"AROMAID": "29"
+	},
+	{
+		"AROMADESCR": "GUAVA PINAPPLE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΠΑΙΔΙΚΟ",
+		"AROMAID": "30"
+	},
+	{
+		"AROMADESCR": "HAYRIDE ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΠΑΙΔΙΚΟ",
+		"AROMAID": "31"
+	},
+	{
+		"AROMADESCR": "HOTEL CLEAN & FRESH ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΠΑΙΔΙΚΟ",
+		"AROMAID": "34"
+	},
+	{
+		"AROMADESCR": "MANGO DELIGHT ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΠΑΙΔΙΚΟ",
+		"AROMAID": "39"
+	},
+	{
+		"AROMADESCR": "MELON FRESH ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΠΑΙΔΙΚΟ",
+		"AROMAID": "42"
+	},
+	{
+		"AROMADESCR": "ORIGINAL MANGO ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΠΑΙΔΙΚΟ",
+		"AROMAID": "45"
+	},
+	{
+		"AROMADESCR": "PEACH ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΠΑΙΔΙΚΟ",
+		"AROMAID": "49"
+	},
+	{
+		"AROMADESCR": "PIZZA ",
+		"ISACTIVE": "1",
+		"MESSAGEDESCR": "ΠΑΙΔΙΚΟ",
+		"AROMAID": "52"
+	} 
+]
