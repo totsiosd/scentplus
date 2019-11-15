@@ -2,27 +2,58 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/widgets.dart';
-import 'package:sweet_alert_dialogs/sweet_alert_dialogs.dart';
+//import 'package:sweet_alert_dialogs/sweet_alert_dialogs.dart';
+import 'package:rflutter_alert/rflutter_alert.dart';
 
 void alertF(BuildContext context, String message) {
-  showDialog(
+    Alert(
       context: context,
-      builder: (BuildContext context) {
-        return RichAlertDialog(
-          alertTitle: richTitle("Warning"),
-          alertSubtitle: richSubtitle(message),
-          alertType: RichAlertType.WARNING,
-          actions: <Widget>[
-            FlatButton(
-              child: Text("Back"),
-              onPressed: () {
-                Navigator.pop(context);
-              },
-            ),
-          ],
-        );
-      });
+      type: AlertType.warning,
+      title: "Warning",
+      desc: message,
+      buttons: [
+        // DialogButton(
+        //   child: Text(
+        //     "FLAT",
+        //     style: TextStyle(color: Colors.white, fontSize: 20),
+        //   ),
+        //   onPressed: () => Navigator.pop(context),
+        //   color: Color.fromRGBO(0, 179, 134, 1.0),
+        // ),
+        DialogButton(
+          child: Text(
+            "Back",
+            style: TextStyle(color: Colors.white, fontSize: 20),
+          ),
+          onPressed: () => Navigator.pop(context),
+          gradient: LinearGradient(colors: [
+            Color.fromRGBO(116, 116, 191, 1.0),
+            Color.fromRGBO(52, 138, 199, 1.0)
+          ]),
+        )
+      ],
+    ).show();
 }
+
+// void alertF(BuildContext context, String message) {
+//   showDialog(
+//       context: context,
+//       builder: (BuildContext context) {
+//         return RichAlertDialog(
+//           alertTitle: richTitle("Warning"),
+//           alertSubtitle: richSubtitle(message),
+//           alertType: RichAlertType.WARNING,
+//           actions: <Widget>[
+//             FlatButton(
+//               child: Text("Back"),
+//               onPressed: () {
+//                 Navigator.pop(context);
+//               },
+//             ),
+//           ],
+//         );
+//       });
+// }
 
 void showDetails(BuildContext context, String aromaid) {
   showDialog(
