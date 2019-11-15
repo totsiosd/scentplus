@@ -19,8 +19,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
-  sweet_alert_dialogs: "^0.1.0"
+  rflutter_alert: ^1.0.3
+ 
   grouped_buttons: ^1.0.4
   custom_radio_grouped_button: ^1.0.0
 
