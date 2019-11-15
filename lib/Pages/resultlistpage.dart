@@ -68,9 +68,7 @@ class _ResultListState extends State<ResultList> {
                             style:
                                 TextStyle(fontSize: 14.0, letterSpacing: 1.2),
                           ),
-                          onTap: () {
-                              alertF(
-                                  context, "Here we present the aroma details");
+                          onTap: () { showDetails(context, '06');
                             }, 
                           ),
                       margin: EdgeInsets.fromLTRB(10, 10, 10, 0),

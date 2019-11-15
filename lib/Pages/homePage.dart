@@ -14,22 +14,23 @@ class HomePage extends StatelessWidget {
           centerTitle: true,
         ),
         body: Padding(
-          padding: EdgeInsets.fromLTRB(10.0, 40.0, 10.0, 0.0),
+          padding: EdgeInsets.fromLTRB(10.0, 10.0, 10.0, 0.0),
           child: Column( mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: <Widget>[
-              Center(
-                child: Image(fit: BoxFit.scaleDown,
-                  image: AssetImage('assets/Images/ScentPlus.png'),
+                Image(width:200,height: 200,
+                
+                  //fit: BoxFit.fill,
+                  image: AssetImage('assets/Images/ScentPlus1.png'),
                 ),
                 // CircleAvatar(
                 //   child: Image.asset('idsspic.jpg'),
                 //   backgroundColor: Colors.blueGrey,
                 //   radius: 40.0,
                 // ),
-              ),
-              SizedBox(
-                height: 40,
-              ),
+               
+              // SizedBox(
+              //   height: 10,
+              // ),
               Center(
                 
                 child: RaisedButton(

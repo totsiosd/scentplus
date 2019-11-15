@@ -9,6 +9,7 @@ import 'Pages/homePage.dart';
 
 void main() => runApp(MaterialApp(
   home: HomePage(),
+  debugShowCheckedModeBanner: false,
   theme: ThemeData(
           primarySwatch: Colors.deepOrange,
           buttonTheme: ButtonThemeData(
