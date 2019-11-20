@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:rbuttons/Utils/commonwidget.dart';
+import 'package:rbuttons/Utils/drawer.dart';
+
 
 class HomePage extends StatelessWidget {
   const HomePage({Key key}) : super(key: key);
@@ -13,6 +14,7 @@ class HomePage extends StatelessWidget {
           title: Text("Perfume Picker App"),
           centerTitle: true,
         ),
+        drawer: AppDrawer(),
         body: Padding(
           padding: EdgeInsets.fromLTRB(10.0, 10.0, 10.0, 0.0),
           child: Column( mainAxisAlignment: MainAxisAlignment.spaceEvenly,

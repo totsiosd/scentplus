@@ -20,7 +20,7 @@ dependencies:
   flutter:
     sdk: flutter
   rflutter_alert: ^1.0.3
- 
+  url_launcher: ^5.2.5
   grouped_buttons: ^1.0.4
   custom_radio_grouped_button: ^1.0.0
 

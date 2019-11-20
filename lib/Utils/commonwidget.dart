@@ -2,37 +2,39 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/widgets.dart';
-//import 'package:sweet_alert_dialogs/sweet_alert_dialogs.dart';
+
 import 'package:rflutter_alert/rflutter_alert.dart';
+import 'package:url_launcher/url_launcher.dart';
+
+void launchURL(String url) async {
+  // const url = 'https://flutter.io';
+  if (await canLaunch(url)) {
+    await launch(url);
+  } else {
+    throw 'Could not launch $url';
+  }
+}
 
 void alertF(BuildContext context, String message) {
-    Alert(
-      context: context,
-      type: AlertType.warning,
-      title: "Warning",
-      desc: message,
-      buttons: [
-        // DialogButton(
-        //   child: Text(
-        //     "FLAT",
-        //     style: TextStyle(color: Colors.white, fontSize: 20),
-        //   ),
-        //   onPressed: () => Navigator.pop(context),
-        //   color: Color.fromRGBO(0, 179, 134, 1.0),
-        // ),
-        DialogButton(
-          child: Text(
-            "Back",
-            style: TextStyle(color: Colors.white, fontSize: 20),
-          ),
-          onPressed: () => Navigator.pop(context),
-          gradient: LinearGradient(colors: [
-            Color.fromRGBO(116, 116, 191, 1.0),
-            Color.fromRGBO(52, 138, 199, 1.0)
-          ]),
-        )
-      ],
-    ).show();
+  Alert(
+    context: context,
+    type: AlertType.warning,
+    title: "Warning",
+    desc: message,
+    buttons: [
+      DialogButton(
+        child: Text(
+          "Back",
+          style: TextStyle(color: Colors.white, fontSize: 20),
+        ),
+        onPressed: () => Navigator.pop(context),
+        gradient: LinearGradient(colors: [
+          Color.fromRGBO(116, 116, 191, 1.0),
+          Color.fromRGBO(52, 138, 199, 1.0)
+        ]),
+      )
+    ],
+  ).show();
 }
 
 // void alertF(BuildContext context, String message) {
@@ -96,6 +98,7 @@ class CommonAppBar extends StatelessWidget {
     return AppBar(
       title: Text(title),
       centerTitle: centerTitle,
+     
     );
   }
 }

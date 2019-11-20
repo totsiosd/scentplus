@@ -1,8 +1,8 @@
 import 'package:custom_radio_grouped_button/CustomButtons/CustomCheckBoxGroup.dart';
 import 'package:flutter/material.dart';
 import 'package:rbuttons/Utils/commonwidget.dart';
-import 'package:rbuttons/Services/getagemodel.dart';
-import 'package:rbuttons/Services/getgiveoffmodel.dart';
+import 'package:rbuttons/Models/getagemodel.dart';
+import 'package:rbuttons/Models/getgiveoffmodel.dart';
 
 class ChooseAge extends StatefulWidget {
   ChooseAge({Key key}) : super(key: key);

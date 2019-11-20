@@ -13,7 +13,7 @@ void main() => runApp(MaterialApp(
   theme: ThemeData(
           primarySwatch: Colors.deepOrange,
           buttonTheme: ButtonThemeData(
-            minWidth: 160.0,
+           // minWidth: 160.0,
             buttonColor: Colors.deepOrange, 
             textTheme: ButtonTextTheme.primary
             ) ,   

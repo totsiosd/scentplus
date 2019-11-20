@@ -1,7 +1,7 @@
 import 'package:custom_radio_grouped_button/CustomButtons/CustomCheckBoxGroup.dart';
 import 'package:flutter/material.dart';
 import 'package:rbuttons/Utils/commonwidget.dart';
-import 'package:rbuttons/Services/getmessagetypemodel.dart';
+import 'package:rbuttons/Models/getmessagetypemodel.dart';
 
 class ChooseMessage extends StatefulWidget {
   ChooseMessage({Key key}) : super(key: key);

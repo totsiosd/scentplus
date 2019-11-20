@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:rbuttons/Services/getagemodel.dart';
-import 'package:rbuttons/Services/getgendermodel.dart';
+import 'package:rbuttons/Models/getagemodel.dart';
+import 'package:rbuttons/Models/getgendermodel.dart';
 import 'package:rbuttons/Utils/commonwidget.dart';
 import 'package:custom_radio_grouped_button/custom_radio_grouped_button.dart';
 

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:rbuttons/Services/getgendermodel.dart';
-import 'package:rbuttons/Services/getplacesmodel.dart';
-import 'package:rbuttons/Services/getaromabycompanymodel.dart';
+import 'package:rbuttons/Models/getgendermodel.dart';
+import 'package:rbuttons/Models/getplacesmodel.dart';
+import 'package:rbuttons/Models/getaromabycompanymodel.dart';
 import 'package:grouped_buttons/grouped_buttons.dart';
 import 'package:rbuttons/Utils/commonwidget.dart';
 

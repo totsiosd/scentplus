@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:rbuttons/Utils/commonwidget.dart';
-import 'package:rbuttons/Services/aromalistmodel.dart';
+import 'package:rbuttons/Models/aromalistmodel.dart';
 
 class ResultList extends StatefulWidget {
   ResultList({Key key}) : super(key: key);
