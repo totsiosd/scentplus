@@ -4,6 +4,7 @@ import 'package:rbuttons/Models/getplacesmodel.dart';
 import 'package:rbuttons/Models/getaromabycompanymodel.dart';
 import 'package:grouped_buttons/grouped_buttons.dart';
 import 'package:rbuttons/Utils/commonwidget.dart';
+import 'package:auto_size_text/auto_size_text.dart';
 
 class ChoosePlacePage extends StatefulWidget {
   ChoosePlacePage({Key key}) : super(key: key);
@@ -34,7 +35,7 @@ class _ChoosePlacePageState extends State<ChoosePlacePage> {
   @override
   Widget build(BuildContext context) {
     // List<String> places = await loadPlaces();
-
+    double cwidth = MediaQuery.of(context).size.width*0.9;
     return Scaffold(
         appBar: AppBar(
           title: Text("Choose a place"),
@@ -42,40 +43,45 @@ class _ChoosePlacePageState extends State<ChoosePlacePage> {
           centerTitle: true,
           actions: <Widget>[],
         ),
-        body: ListView(children: <Widget>[
-          RadioButtonGroup(
-            labels: places,
-            labelStyle: TextStyle(fontSize: 18.0, letterSpacing: 1.5),
-            picked: _selectedPlace,
-            orientation: GroupedButtonsOrientation.VERTICAL,
-            margin: const EdgeInsets.only(left: 12.0),
-            itemBuilder: (Radio rb, Text txt, int i) {
-              return Row(
-                children: <Widget>[
-                  rb,
-                  txt,
-                ],
-              );
-            },
-            onChange: (String label, int index) {
-              //  getPlaceID(label).then((v) {res=v;});
-              //first run onChange and then onSelected that's why _res is null at first
-            },
-            onSelected: (String selected) => setState(() {
-              aromaIds = [];
-              _selectedPlace = selected;
-              getPlaceID(_selectedPlace).then((v) {
-                _res = v;
-              }).then((_) {
-                loadAromata(_selectedPlace).then((list) {
-                  list.forEach((f) {
-                    aromaIds.add(f);
+        body: Container(
+          padding: const EdgeInsets.all(8.0),
+          
+          child: ListView(children: <Widget>[
+            RadioButtonGroup(
+              labels: places,
+              
+              labelStyle: TextStyle(fontSize: 18.0, letterSpacing: 1.5),
+              picked: _selectedPlace,
+              orientation: GroupedButtonsOrientation.VERTICAL,
+              margin: const EdgeInsets.only(left: 12.0),
+              itemBuilder: (Radio rb, Text txt, int i) {
+                return Row(
+                  children: <Widget>[
+                    rb,
+                    SizedBox( width: cwidth*0.8,   child: AutoSizeText(txt.data, maxLines: 2, style: txt.style)),
+                  ],
+                );
+              },
+              onChange: (String label, int index) {
+                //  getPlaceID(label).then((v) {res=v;});
+                //first run onChange and then onSelected that's why _res is null at first
+              },
+              onSelected: (String selected) => setState(() {
+                aromaIds = [];
+                _selectedPlace = selected;
+                getPlaceID(_selectedPlace).then((v) {
+                  _res = v;
+                }).then((_) {
+                  loadAromata(_selectedPlace).then((list) {
+                    list.forEach((f) {
+                      aromaIds.add(f);
+                    });
                   });
                 });
-              });
-            }),
-          ),
-        ]),
+              }),
+            ),
+          ]),
+        ),
         bottomNavigationBar: BottomBar(
           firstF: _firstF,
           secondF: (_selectedPlace != null) ? _secF : _alertF,
