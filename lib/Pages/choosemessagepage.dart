@@ -15,11 +15,13 @@ class _ChooseMessageState extends State<ChooseMessage> {
   List<String> aromaIds = [];
   List<String> messageTypes = [];
   List<String> selection = [];
+  List<String> synopsisList = [];
   @override
   Widget build(BuildContext context) {
     attr = ModalRoute.of(context).settings.arguments;
     aromaIds = attr['aromaIds'];
     messageTypes = attr['messageTypes'];
+    synopsisList = attr['synopsis'];
     return 
     Scaffold(
       appBar: AppBar(
@@ -75,11 +77,16 @@ class _ChooseMessageState extends State<ChooseMessage> {
 
   void _secF() async {
     List<String> newAromaIds =[];
- 
+    print(synopsisList);
+    synopsisList.removeWhere((i) => (i.contains("Message: ")));
+    
+    print(synopsisList);
+    
+    synopsisList.add("Message: "+selection.toString());
      newAromaIds = await getAromaMessageTypeIds(selection, aromaIds);
      
-     Navigator.of(context).pushNamed('/resultList',
-         arguments: {'aromaIds': newAromaIds});
+     Navigator.of(context).pushNamed('/synopsis',
+         arguments: {'aromaIds': newAromaIds,'synopsis':synopsisList,});
   }
 
  void _homeF() {

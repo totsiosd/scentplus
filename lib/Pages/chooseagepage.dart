@@ -18,12 +18,15 @@ class _ChooseAgeState extends State<ChooseAge> {
   List<String> aromaIds=[];
   List<String> ages = [];
   List<String> selection=[];
+  List<String> synopsisList = [];
 
   @override
   Widget build(BuildContext context) {
     attr = ModalRoute.of(context).settings.arguments;      
     aromaIds = attr['aromaIds'];
     ages = attr['ages'];
+    synopsisList = attr['synopsis'];
+
     return 
     Scaffold(
       appBar: AppBar(
@@ -75,10 +78,12 @@ class _ChooseAgeState extends State<ChooseAge> {
   void _secF() async {
     List<String> newAromaIds =[];
     List<String> giveOffs = []; //This list is passed to the next page
+    synopsisList.removeWhere((i) => (i.contains("Age: ")));
+    synopsisList.add("Age: "+selection.toString());
      newAromaIds = await getAromaAgeIds(selection, aromaIds);
      giveOffs = await loadGiveOffList(aromaIds); //get valid selection values for the next page
      Navigator.of(context).pushNamed('/chooseGiveoff',
-         arguments: {'aromaIds': newAromaIds, 'ages': selection, 'giveOffs':giveOffs});
+         arguments: {'aromaIds': newAromaIds, 'ages': selection, 'giveOffs':giveOffs,'synopsis':synopsisList,});
   }
 
  void _homeF() {

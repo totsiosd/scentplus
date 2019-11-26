@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:rbuttons/Pages/synpsisPage.dart';
 import 'Pages/chooseagepage.dart';
 import 'Pages/choosegiveoffpage.dart';
 import 'Pages/choosemessagepage.dart';
@@ -28,5 +29,6 @@ void main() => runApp(MaterialApp(
     '/chooseGiveoff' : (context) => ChooseGiveoff(),
     '/chooseMessage' : (context) => ChooseMessage(),
     '/resultList'    : (context) => ResultList(),
+    '/synopsis'      : (context) => SynopsisPage(),
   },
 ));

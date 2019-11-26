@@ -16,11 +16,14 @@ class _ChooseGiveoffState extends State<ChooseGiveoff> {
   List<String> aromaIds = [];
   List<String> giveOffs = [];
   List<String> selection = [];
+  List<String> synopsisList = [];
+
   @override
   Widget build(BuildContext context) {
     attr = ModalRoute.of(context).settings.arguments;
     aromaIds = attr['aromaIds'];
     giveOffs = attr['giveOffs'];
+    synopsisList = attr['synopsis'];
     return Scaffold(
         appBar: AppBar(
           title: Text("Choose Giveoff"),
@@ -73,12 +76,15 @@ class _ChooseGiveoffState extends State<ChooseGiveoff> {
   void _secF() async {
     List<String> newAromaIds = [];
     List<String> messageTypes = [];
+       synopsisList.removeWhere((i) => (i.contains("Giveoff: ")));
+    synopsisList.add("Giveoff: "+selection.toString());
     newAromaIds = await getAromaGiveOffIds(selection, aromaIds);
     messageTypes = await loadMessageTypeList(aromaIds);
     Navigator.of(context).pushNamed('/chooseMessage', arguments: {
       'aromaIds': newAromaIds,
       'ages': selection,
-      'messageTypes': messageTypes
+      'messageTypes': messageTypes,
+      'synopsis':synopsisList,
     });
   }
 

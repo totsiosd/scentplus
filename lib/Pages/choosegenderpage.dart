@@ -22,6 +22,8 @@ class _ChooseGenderState extends State<ChooseGender> {
   List<String> aromaIds = [];
   List<String> genders = [];
   List<String> selection = [];
+  
+  List<String> synopsisList = [];
 
   @override
   Widget build(BuildContext context) {
@@ -29,6 +31,7 @@ class _ChooseGenderState extends State<ChooseGender> {
 
     aromaIds = attr['aromaIds'];
     genders = attr['genders'];
+    synopsisList = attr['synopsis'];
 
     return Scaffold(
         appBar: AppBar(
@@ -80,13 +83,17 @@ class _ChooseGenderState extends State<ChooseGender> {
   void _secF() async {
     List<String> newAromaIds = []; //Aroma ids after the current selections
     List<String> ages = []; //This list is passed to the next page
+    synopsisList.removeWhere((i) => (i.contains("Gender: ")));
+    synopsisList.add("Gender: "+selection.toString());
+    print(synopsisList);
     newAromaIds = await getAromaGenderIds(selection, aromaIds); //Finding ids
     ages = await loadAgeList(
         aromaIds); //get valid selection values for the next page
     Navigator.of(context).pushNamed('/chooseAge', arguments: {
       'aromaIds': newAromaIds,
       'genders': selection,
-      'ages': ages
+      'ages': ages,
+      'synopsis':synopsisList,
     });
   }
 

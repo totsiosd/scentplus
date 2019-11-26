@@ -14,6 +14,8 @@ class ChoosePlacePage extends StatefulWidget {
 }
 
 class _ChoosePlacePageState extends State<ChoosePlacePage> {
+  
+  List<String> synopsisList = [];
   List<String> places = [];
   List<String> aromaIds = [];
   String _res;
@@ -102,8 +104,11 @@ class _ChoosePlacePageState extends State<ChoosePlacePage> {
 
   void _secF() async {
     List<String> genders = await loadGenderList(aromaIds);
+    synopsisList=[];
+    synopsisList.add("Place: "+_selectedPlace);
+    print(synopsisList);
     Navigator.of(context).pushNamed('/chooseGender',
-        arguments: {'aromaIds': aromaIds, 'placeId': _res, 'genders': genders});
+        arguments: {'aromaIds': aromaIds, 'placeId': _res, 'genders': genders, 'synopsis':synopsisList});
   }
 
   void _homeF() {
