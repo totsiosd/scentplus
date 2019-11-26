@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:rbuttons/Pages/synpsisPage.dart';
+import 'package:rbuttons/Pages/synopsisPage.dart';
 import 'Pages/chooseagepage.dart';
 import 'Pages/choosegiveoffpage.dart';
 import 'Pages/choosemessagepage.dart';
