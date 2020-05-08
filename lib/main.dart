@@ -22,7 +22,7 @@ void main() => runApp(MaterialApp(
           //appBarTheme: AppBarTheme(color: Colors.deepPurple),
         ),
   routes: {
-    '/home'          : (context)=> HomePage(),
+    '/home'          : (context) => HomePage(),
     '/choosePlace'   : (context) => ChoosePlacePage(),
     '/chooseGender'  : (context) => ChooseGender(),
     '/chooseAge'     : (context) => ChooseAge(),
