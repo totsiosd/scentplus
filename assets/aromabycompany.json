@@ -1,0 +1,4475 @@
+﻿[
+	{
+		"ID": "4026",
+		"COMPANYID": "1",
+		"COMPANYTYPE": "Auto - Moto",
+		"ENABLED": "1",
+		"AROMAID": "1"
+	},
+	{
+		"ID": "4027",
+		"COMPANYID": "2",
+		"COMPANYTYPE": "Hobby (Κυνήγι-Αλιεία κτλ)",
+		"ENABLED": "1",
+		"AROMAID": "1"
+	},
+	{
+		"ID": "4030",
+		"COMPANYID": "5",
+		"COMPANYTYPE": "Αξεσουάρ - Κόσμημα",
+		"ENABLED": "1",
+		"AROMAID": "1"
+	},
+	{
+		"ID": "4034",
+		"COMPANYID": "9",
+		"COMPANYTYPE": "Γραφεία",
+		"ENABLED": "1",
+		"AROMAID": "1"
+	},
+	{
+		"ID": "4036",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "1"
+	},
+	{
+		"ID": "4040",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "1"
+	},
+	{
+		"ID": "4042",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "1"
+	},
+	{
+		"ID": "4043",
+		"COMPANYID": "18",
+		"COMPANYTYPE": "Οπτικά",
+		"ENABLED": "1",
+		"AROMAID": "1"
+	},
+	{
+		"ID": "4044",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "1"
+	},
+	{
+		"ID": "4046",
+		"COMPANYID": "21",
+		"COMPANYTYPE": "Τυχερά Παιχνίδια",
+		"ENABLED": "1",
+		"AROMAID": "1"
+	},
+	{
+		"ID": "4048",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "1"
+	},
+	{
+		"ID": "4049",
+		"COMPANYID": "24",
+		"COMPANYTYPE": "Υπηρεσίες Υγείας",
+		"ENABLED": "1",
+		"AROMAID": "1"
+	},
+	{
+		"ID": "4050",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "1"
+	},
+	{
+		"ID": "4051",
+		"COMPANYID": "1",
+		"COMPANYTYPE": "Auto - Moto",
+		"ENABLED": "1",
+		"AROMAID": "2"
+	},
+	{
+		"ID": "4052",
+		"COMPANYID": "2",
+		"COMPANYTYPE": "Hobby (Κυνήγι-Αλιεία κτλ)",
+		"ENABLED": "1",
+		"AROMAID": "2"
+	},
+	{
+		"ID": "4053",
+		"COMPANYID": "3",
+		"COMPANYTYPE": "Pet Shop",
+		"ENABLED": "1",
+		"AROMAID": "2"
+	},
+	{
+		"ID": "4058",
+		"COMPANYID": "8",
+		"COMPANYTYPE": "Βιβλιοπωλείο",
+		"ENABLED": "1",
+		"AROMAID": "2"
+	},
+	{
+		"ID": "4061",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "2"
+	},
+	{
+		"ID": "4062",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "2"
+	},
+	{
+		"ID": "4064",
+		"COMPANYID": "14",
+		"COMPANYTYPE": "Ηλεκτρικά-Ηλεκτρονικά",
+		"ENABLED": "1",
+		"AROMAID": "2"
+	},
+	{
+		"ID": "4065",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "2"
+	},
+	{
+		"ID": "4066",
+		"COMPANYID": "16",
+		"COMPANYTYPE": "Κινηματογράφος-Θέατρο-Ψυχαγωγία",
+		"ENABLED": "1",
+		"AROMAID": "2"
+	},
+	{
+		"ID": "4067",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "2"
+	},
+	{
+		"ID": "4069",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "2"
+	},
+	{
+		"ID": "4070",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "2"
+	},
+	{
+		"ID": "4071",
+		"COMPANYID": "21",
+		"COMPANYTYPE": "Τυχερά Παιχνίδια",
+		"ENABLED": "1",
+		"AROMAID": "2"
+	},
+	{
+		"ID": "4075",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "2"
+	},
+	{
+		"ID": "4076",
+		"COMPANYID": "1",
+		"COMPANYTYPE": "Auto - Moto",
+		"ENABLED": "1",
+		"AROMAID": "3"
+	},
+	{
+		"ID": "4080",
+		"COMPANYID": "5",
+		"COMPANYTYPE": "Αξεσουάρ - Κόσμημα",
+		"ENABLED": "1",
+		"AROMAID": "3"
+	},
+	{
+		"ID": "4082",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "3"
+	},
+	{
+		"ID": "4083",
+		"COMPANYID": "8",
+		"COMPANYTYPE": "Βιβλιοπωλείο",
+		"ENABLED": "1",
+		"AROMAID": "3"
+	},
+	{
+		"ID": "4084",
+		"COMPANYID": "9",
+		"COMPANYTYPE": "Γραφεία",
+		"ENABLED": "1",
+		"AROMAID": "3"
+	},
+	{
+		"ID": "4086",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "3"
+	},
+	{
+		"ID": "4087",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "3"
+	},
+	{
+		"ID": "4088",
+		"COMPANYID": "13",
+		"COMPANYTYPE": "Εσώρουχα",
+		"ENABLED": "1",
+		"AROMAID": "3"
+	},
+	{
+		"ID": "4089",
+		"COMPANYID": "14",
+		"COMPANYTYPE": "Ηλεκτρικά-Ηλεκτρονικά",
+		"ENABLED": "1",
+		"AROMAID": "3"
+	},
+	{
+		"ID": "4091",
+		"COMPANYID": "16",
+		"COMPANYTYPE": "Κινηματογράφος-Θέατρο-Ψυχαγωγία",
+		"ENABLED": "1",
+		"AROMAID": "3"
+	},
+	{
+		"ID": "4092",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "3"
+	},
+	{
+		"ID": "4093",
+		"COMPANYID": "18",
+		"COMPANYTYPE": "Οπτικά",
+		"ENABLED": "1",
+		"AROMAID": "3"
+	},
+	{
+		"ID": "4094",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "3"
+	},
+	{
+		"ID": "4096",
+		"COMPANYID": "21",
+		"COMPANYTYPE": "Τυχερά Παιχνίδια",
+		"ENABLED": "1",
+		"AROMAID": "3"
+	},
+	{
+		"ID": "4097",
+		"COMPANYID": "22",
+		"COMPANYTYPE": "Υπηρεσίες Εκπαίδευσης",
+		"ENABLED": "1",
+		"AROMAID": "3"
+	},
+	{
+		"ID": "4098",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "3"
+	},
+	{
+		"ID": "4099",
+		"COMPANYID": "24",
+		"COMPANYTYPE": "Υπηρεσίες Υγείας",
+		"ENABLED": "1",
+		"AROMAID": "3"
+	},
+	{
+		"ID": "4100",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "3"
+	},
+	{
+		"ID": "4102",
+		"COMPANYID": "2",
+		"COMPANYTYPE": "Hobby (Κυνήγι-Αλιεία κτλ)",
+		"ENABLED": "1",
+		"AROMAID": "4"
+	},
+	{
+		"ID": "4104",
+		"COMPANYID": "4",
+		"COMPANYTYPE": "Ανθοπωλεία",
+		"ENABLED": "1",
+		"AROMAID": "4"
+	},
+	{
+		"ID": "4105",
+		"COMPANYID": "5",
+		"COMPANYTYPE": "Αξεσουάρ - Κόσμημα",
+		"ENABLED": "1",
+		"AROMAID": "4"
+	},
+	{
+		"ID": "4107",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "4"
+	},
+	{
+		"ID": "4108",
+		"COMPANYID": "8",
+		"COMPANYTYPE": "Βιβλιοπωλείο",
+		"ENABLED": "1",
+		"AROMAID": "4"
+	},
+	{
+		"ID": "4111",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "4"
+	},
+	{
+		"ID": "4112",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "4"
+	},
+	{
+		"ID": "4115",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "4"
+	},
+	{
+		"ID": "4116",
+		"COMPANYID": "16",
+		"COMPANYTYPE": "Κινηματογράφος-Θέατρο-Ψυχαγωγία",
+		"ENABLED": "1",
+		"AROMAID": "4"
+	},
+	{
+		"ID": "4119",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "4"
+	},
+	{
+		"ID": "4120",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "4"
+	},
+	{
+		"ID": "4122",
+		"COMPANYID": "22",
+		"COMPANYTYPE": "Υπηρεσίες Εκπαίδευσης",
+		"ENABLED": "1",
+		"AROMAID": "4"
+	},
+	{
+		"ID": "4123",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "4"
+	},
+	{
+		"ID": "4125",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "4"
+	},
+	{
+		"ID": "4129",
+		"COMPANYID": "4",
+		"COMPANYTYPE": "Ανθοπωλεία",
+		"ENABLED": "1",
+		"AROMAID": "5"
+	},
+	{
+		"ID": "4130",
+		"COMPANYID": "5",
+		"COMPANYTYPE": "Αξεσουάρ - Κόσμημα",
+		"ENABLED": "1",
+		"AROMAID": "5"
+	},
+	{
+		"ID": "4132",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "5"
+	},
+	{
+		"ID": "4136",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "5"
+	},
+	{
+		"ID": "4137",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "5"
+	},
+	{
+		"ID": "4138",
+		"COMPANYID": "13",
+		"COMPANYTYPE": "Εσώρουχα",
+		"ENABLED": "1",
+		"AROMAID": "5"
+	},
+	{
+		"ID": "4140",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "5"
+	},
+	{
+		"ID": "4142",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "5"
+	},
+	{
+		"ID": "4143",
+		"COMPANYID": "18",
+		"COMPANYTYPE": "Οπτικά",
+		"ENABLED": "1",
+		"AROMAID": "5"
+	},
+	{
+		"ID": "4144",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "5"
+	},
+	{
+		"ID": "4148",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "5"
+	},
+	{
+		"ID": "4150",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "5"
+	},
+	{
+		"ID": "4176",
+		"COMPANYID": "1",
+		"COMPANYTYPE": "Auto - Moto",
+		"ENABLED": "1",
+		"AROMAID": "7"
+	},
+	{
+		"ID": "4180",
+		"COMPANYID": "5",
+		"COMPANYTYPE": "Αξεσουάρ - Κόσμημα",
+		"ENABLED": "1",
+		"AROMAID": "7"
+	},
+	{
+		"ID": "4185",
+		"COMPANYID": "10",
+		"COMPANYTYPE": "Είδη Καπνιστών",
+		"ENABLED": "1",
+		"AROMAID": "7"
+	},
+	{
+		"ID": "4186",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "7"
+	},
+	{
+		"ID": "4187",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "7"
+	},
+	{
+		"ID": "4191",
+		"COMPANYID": "16",
+		"COMPANYTYPE": "Κινηματογράφος-Θέατρο-Ψυχαγωγία",
+		"ENABLED": "1",
+		"AROMAID": "7"
+	},
+	{
+		"ID": "4192",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "7"
+	},
+	{
+		"ID": "4194",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "7"
+	},
+	{
+		"ID": "4196",
+		"COMPANYID": "21",
+		"COMPANYTYPE": "Τυχερά Παιχνίδια",
+		"ENABLED": "1",
+		"AROMAID": "7"
+	},
+	{
+		"ID": "4198",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "7"
+	},
+	{
+		"ID": "4200",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "7"
+	},
+	{
+		"ID": "4206",
+		"COMPANYID": "6",
+		"COMPANYTYPE": "Αρτοποιείο - Ζαχ/πλαστείο",
+		"ENABLED": "1",
+		"AROMAID": "8"
+	},
+	{
+		"ID": "4211",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "8"
+	},
+	{
+		"ID": "4212",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "8"
+	},
+	{
+		"ID": "4215",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "8"
+	},
+	{
+		"ID": "4216",
+		"COMPANYID": "16",
+		"COMPANYTYPE": "Κινηματογράφος-Θέατρο-Ψυχαγωγία",
+		"ENABLED": "1",
+		"AROMAID": "8"
+	},
+	{
+		"ID": "4217",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "8"
+	},
+	{
+		"ID": "4218",
+		"COMPANYID": "18",
+		"COMPANYTYPE": "Οπτικά",
+		"ENABLED": "1",
+		"AROMAID": "8"
+	},
+	{
+		"ID": "4219",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "8"
+	},
+	{
+		"ID": "4220",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "8"
+	},
+	{
+		"ID": "4225",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "8"
+	},
+	{
+		"ID": "4227",
+		"COMPANYID": "2",
+		"COMPANYTYPE": "Hobby (Κυνήγι-Αλιεία κτλ)",
+		"ENABLED": "1",
+		"AROMAID": "9"
+	},
+	{
+		"ID": "4228",
+		"COMPANYID": "3",
+		"COMPANYTYPE": "Pet Shop",
+		"ENABLED": "1",
+		"AROMAID": "9"
+	},
+	{
+		"ID": "4229",
+		"COMPANYID": "4",
+		"COMPANYTYPE": "Ανθοπωλεία",
+		"ENABLED": "1",
+		"AROMAID": "9"
+	},
+	{
+		"ID": "4233",
+		"COMPANYID": "8",
+		"COMPANYTYPE": "Βιβλιοπωλείο",
+		"ENABLED": "1",
+		"AROMAID": "9"
+	},
+	{
+		"ID": "4236",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "9"
+	},
+	{
+		"ID": "4237",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "9"
+	},
+	{
+		"ID": "4239",
+		"COMPANYID": "14",
+		"COMPANYTYPE": "Ηλεκτρικά-Ηλεκτρονικά",
+		"ENABLED": "1",
+		"AROMAID": "9"
+	},
+	{
+		"ID": "4240",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "9"
+	},
+	{
+		"ID": "4241",
+		"COMPANYID": "16",
+		"COMPANYTYPE": "Κινηματογράφος-Θέατρο-Ψυχαγωγία",
+		"ENABLED": "1",
+		"AROMAID": "9"
+	},
+	{
+		"ID": "4242",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "9"
+	},
+	{
+		"ID": "4244",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "9"
+	},
+	{
+		"ID": "4245",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "9"
+	},
+	{
+		"ID": "4246",
+		"COMPANYID": "21",
+		"COMPANYTYPE": "Τυχερά Παιχνίδια",
+		"ENABLED": "1",
+		"AROMAID": "9"
+	},
+	{
+		"ID": "4248",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "9"
+	},
+	{
+		"ID": "4249",
+		"COMPANYID": "24",
+		"COMPANYTYPE": "Υπηρεσίες Υγείας",
+		"ENABLED": "1",
+		"AROMAID": "9"
+	},
+	{
+		"ID": "4250",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "9"
+	},
+	{
+		"ID": "4251",
+		"COMPANYID": "1",
+		"COMPANYTYPE": "Auto - Moto",
+		"ENABLED": "1",
+		"AROMAID": "10"
+	},
+	{
+		"ID": "4252",
+		"COMPANYID": "2",
+		"COMPANYTYPE": "Hobby (Κυνήγι-Αλιεία κτλ)",
+		"ENABLED": "1",
+		"AROMAID": "10"
+	},
+	{
+		"ID": "4255",
+		"COMPANYID": "5",
+		"COMPANYTYPE": "Αξεσουάρ - Κόσμημα",
+		"ENABLED": "1",
+		"AROMAID": "10"
+	},
+	{
+		"ID": "4257",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "10"
+	},
+	{
+		"ID": "4259",
+		"COMPANYID": "9",
+		"COMPANYTYPE": "Γραφεία",
+		"ENABLED": "1",
+		"AROMAID": "10"
+	},
+	{
+		"ID": "4261",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "10"
+	},
+	{
+		"ID": "4262",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "10"
+	},
+	{
+		"ID": "4263",
+		"COMPANYID": "13",
+		"COMPANYTYPE": "Εσώρουχα",
+		"ENABLED": "1",
+		"AROMAID": "10"
+	},
+	{
+		"ID": "4264",
+		"COMPANYID": "14",
+		"COMPANYTYPE": "Ηλεκτρικά-Ηλεκτρονικά",
+		"ENABLED": "1",
+		"AROMAID": "10"
+	},
+	{
+		"ID": "4266",
+		"COMPANYID": "16",
+		"COMPANYTYPE": "Κινηματογράφος-Θέατρο-Ψυχαγωγία",
+		"ENABLED": "1",
+		"AROMAID": "10"
+	},
+	{
+		"ID": "4267",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "10"
+	},
+	{
+		"ID": "4268",
+		"COMPANYID": "18",
+		"COMPANYTYPE": "Οπτικά",
+		"ENABLED": "1",
+		"AROMAID": "10"
+	},
+	{
+		"ID": "4269",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "10"
+	},
+	{
+		"ID": "4273",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "10"
+	},
+	{
+		"ID": "4274",
+		"COMPANYID": "24",
+		"COMPANYTYPE": "Υπηρεσίες Υγείας",
+		"ENABLED": "1",
+		"AROMAID": "10"
+	},
+	{
+		"ID": "4275",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "10"
+	},
+	{
+		"ID": "4279",
+		"COMPANYID": "4",
+		"COMPANYTYPE": "Ανθοπωλεία",
+		"ENABLED": "1",
+		"AROMAID": "11"
+	},
+	{
+		"ID": "4282",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "11"
+	},
+	{
+		"ID": "4286",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "11"
+	},
+	{
+		"ID": "4288",
+		"COMPANYID": "13",
+		"COMPANYTYPE": "Εσώρουχα",
+		"ENABLED": "1",
+		"AROMAID": "11"
+	},
+	{
+		"ID": "4294",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "11"
+	},
+	{
+		"ID": "4297",
+		"COMPANYID": "22",
+		"COMPANYTYPE": "Υπηρεσίες Εκπαίδευσης",
+		"ENABLED": "1",
+		"AROMAID": "11"
+	},
+	{
+		"ID": "4298",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "11"
+	},
+	{
+		"ID": "4300",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "11"
+	},
+	{
+		"ID": "4301",
+		"COMPANYID": "1",
+		"COMPANYTYPE": "Auto - Moto",
+		"ENABLED": "1",
+		"AROMAID": "12"
+	},
+	{
+		"ID": "4306",
+		"COMPANYID": "6",
+		"COMPANYTYPE": "Αρτοποιείο - Ζαχ/πλαστείο",
+		"ENABLED": "1",
+		"AROMAID": "12"
+	},
+	{
+		"ID": "4307",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "12"
+	},
+	{
+		"ID": "4308",
+		"COMPANYID": "8",
+		"COMPANYTYPE": "Βιβλιοπωλείο",
+		"ENABLED": "1",
+		"AROMAID": "12"
+	},
+	{
+		"ID": "4310",
+		"COMPANYID": "10",
+		"COMPANYTYPE": "Είδη Καπνιστών",
+		"ENABLED": "1",
+		"AROMAID": "12"
+	},
+	{
+		"ID": "4312",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "12"
+	},
+	{
+		"ID": "4315",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "12"
+	},
+	{
+		"ID": "4316",
+		"COMPANYID": "16",
+		"COMPANYTYPE": "Κινηματογράφος-Θέατρο-Ψυχαγωγία",
+		"ENABLED": "1",
+		"AROMAID": "12"
+	},
+	{
+		"ID": "4317",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "12"
+	},
+	{
+		"ID": "4319",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "12"
+	},
+	{
+		"ID": "4320",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "12"
+	},
+	{
+		"ID": "4321",
+		"COMPANYID": "21",
+		"COMPANYTYPE": "Τυχερά Παιχνίδια",
+		"ENABLED": "1",
+		"AROMAID": "12"
+	},
+	{
+		"ID": "4326",
+		"COMPANYID": "1",
+		"COMPANYTYPE": "Auto - Moto",
+		"ENABLED": "1",
+		"AROMAID": "13"
+	},
+	{
+		"ID": "4327",
+		"COMPANYID": "2",
+		"COMPANYTYPE": "Hobby (Κυνήγι-Αλιεία κτλ)",
+		"ENABLED": "1",
+		"AROMAID": "13"
+	},
+	{
+		"ID": "4328",
+		"COMPANYID": "3",
+		"COMPANYTYPE": "Pet Shop",
+		"ENABLED": "1",
+		"AROMAID": "13"
+	},
+	{
+		"ID": "4332",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "13"
+	},
+	{
+		"ID": "4333",
+		"COMPANYID": "8",
+		"COMPANYTYPE": "Βιβλιοπωλείο",
+		"ENABLED": "1",
+		"AROMAID": "13"
+	},
+	{
+		"ID": "4334",
+		"COMPANYID": "9",
+		"COMPANYTYPE": "Γραφεία",
+		"ENABLED": "1",
+		"AROMAID": "13"
+	},
+	{
+		"ID": "4335",
+		"COMPANYID": "10",
+		"COMPANYTYPE": "Είδη Καπνιστών",
+		"ENABLED": "1",
+		"AROMAID": "13"
+	},
+	{
+		"ID": "4336",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "13"
+	},
+	{
+		"ID": "4337",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "13"
+	},
+	{
+		"ID": "4338",
+		"COMPANYID": "13",
+		"COMPANYTYPE": "Εσώρουχα",
+		"ENABLED": "1",
+		"AROMAID": "13"
+	},
+	{
+		"ID": "4339",
+		"COMPANYID": "14",
+		"COMPANYTYPE": "Ηλεκτρικά-Ηλεκτρονικά",
+		"ENABLED": "1",
+		"AROMAID": "13"
+	},
+	{
+		"ID": "4340",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "13"
+	},
+	{
+		"ID": "4341",
+		"COMPANYID": "16",
+		"COMPANYTYPE": "Κινηματογράφος-Θέατρο-Ψυχαγωγία",
+		"ENABLED": "1",
+		"AROMAID": "13"
+	},
+	{
+		"ID": "4342",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "13"
+	},
+	{
+		"ID": "4344",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "13"
+	},
+	{
+		"ID": "4345",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "13"
+	},
+	{
+		"ID": "4346",
+		"COMPANYID": "21",
+		"COMPANYTYPE": "Τυχερά Παιχνίδια",
+		"ENABLED": "1",
+		"AROMAID": "13"
+	},
+	{
+		"ID": "4347",
+		"COMPANYID": "22",
+		"COMPANYTYPE": "Υπηρεσίες Εκπαίδευσης",
+		"ENABLED": "1",
+		"AROMAID": "13"
+	},
+	{
+		"ID": "4350",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "13"
+	},
+	{
+		"ID": "4355",
+		"COMPANYID": "5",
+		"COMPANYTYPE": "Αξεσουάρ - Κόσμημα",
+		"ENABLED": "1",
+		"AROMAID": "14"
+	},
+	{
+		"ID": "4357",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "14"
+	},
+	{
+		"ID": "4361",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "14"
+	},
+	{
+		"ID": "4362",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "14"
+	},
+	{
+		"ID": "4363",
+		"COMPANYID": "13",
+		"COMPANYTYPE": "Εσώρουχα",
+		"ENABLED": "1",
+		"AROMAID": "14"
+	},
+	{
+		"ID": "4365",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "14"
+	},
+	{
+		"ID": "4367",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "14"
+	},
+	{
+		"ID": "4368",
+		"COMPANYID": "18",
+		"COMPANYTYPE": "Οπτικά",
+		"ENABLED": "1",
+		"AROMAID": "14"
+	},
+	{
+		"ID": "4373",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "14"
+	},
+	{
+		"ID": "4375",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "14"
+	},
+	{
+		"ID": "4381",
+		"COMPANYID": "6",
+		"COMPANYTYPE": "Αρτοποιείο - Ζαχ/πλαστείο",
+		"ENABLED": "1",
+		"AROMAID": "15"
+	},
+	{
+		"ID": "4385",
+		"COMPANYID": "10",
+		"COMPANYTYPE": "Είδη Καπνιστών",
+		"ENABLED": "1",
+		"AROMAID": "15"
+	},
+	{
+		"ID": "4390",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "15"
+	},
+	{
+		"ID": "4392",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "15"
+	},
+	{
+		"ID": "4394",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "15"
+	},
+	{
+		"ID": "4395",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "15"
+	},
+	{
+		"ID": "4406",
+		"COMPANYID": "6",
+		"COMPANYTYPE": "Αρτοποιείο - Ζαχ/πλαστείο",
+		"ENABLED": "1",
+		"AROMAID": "16"
+	},
+	{
+		"ID": "4415",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "16"
+	},
+	{
+		"ID": "4417",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "16"
+	},
+	{
+		"ID": "4420",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "16"
+	},
+	{
+		"ID": "4430",
+		"COMPANYID": "5",
+		"COMPANYTYPE": "Αξεσουάρ - Κόσμημα",
+		"ENABLED": "1",
+		"AROMAID": "17"
+	},
+	{
+		"ID": "4432",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "17"
+	},
+	{
+		"ID": "4433",
+		"COMPANYID": "8",
+		"COMPANYTYPE": "Βιβλιοπωλείο",
+		"ENABLED": "1",
+		"AROMAID": "17"
+	},
+	{
+		"ID": "4434",
+		"COMPANYID": "9",
+		"COMPANYTYPE": "Γραφεία",
+		"ENABLED": "1",
+		"AROMAID": "17"
+	},
+	{
+		"ID": "4435",
+		"COMPANYID": "10",
+		"COMPANYTYPE": "Είδη Καπνιστών",
+		"ENABLED": "1",
+		"AROMAID": "17"
+	},
+	{
+		"ID": "4436",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "17"
+	},
+	{
+		"ID": "4437",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "17"
+	},
+	{
+		"ID": "4438",
+		"COMPANYID": "13",
+		"COMPANYTYPE": "Εσώρουχα",
+		"ENABLED": "1",
+		"AROMAID": "17"
+	},
+	{
+		"ID": "4441",
+		"COMPANYID": "16",
+		"COMPANYTYPE": "Κινηματογράφος-Θέατρο-Ψυχαγωγία",
+		"ENABLED": "1",
+		"AROMAID": "17"
+	},
+	{
+		"ID": "4442",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "17"
+	},
+	{
+		"ID": "4443",
+		"COMPANYID": "18",
+		"COMPANYTYPE": "Οπτικά",
+		"ENABLED": "1",
+		"AROMAID": "17"
+	},
+	{
+		"ID": "4444",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "17"
+	},
+	{
+		"ID": "4447",
+		"COMPANYID": "22",
+		"COMPANYTYPE": "Υπηρεσίες Εκπαίδευσης",
+		"ENABLED": "1",
+		"AROMAID": "17"
+	},
+	{
+		"ID": "4448",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "17"
+	},
+	{
+		"ID": "4449",
+		"COMPANYID": "24",
+		"COMPANYTYPE": "Υπηρεσίες Υγείας",
+		"ENABLED": "1",
+		"AROMAID": "17"
+	},
+	{
+		"ID": "4450",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "17"
+	},
+	{
+		"ID": "4456",
+		"COMPANYID": "6",
+		"COMPANYTYPE": "Αρτοποιείο - Ζαχ/πλαστείο",
+		"ENABLED": "1",
+		"AROMAID": "18"
+	},
+	{
+		"ID": "4457",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "18"
+	},
+	{
+		"ID": "4460",
+		"COMPANYID": "10",
+		"COMPANYTYPE": "Είδη Καπνιστών",
+		"ENABLED": "1",
+		"AROMAID": "18"
+	},
+	{
+		"ID": "4461",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "18"
+	},
+	{
+		"ID": "4465",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "18"
+	},
+	{
+		"ID": "4466",
+		"COMPANYID": "16",
+		"COMPANYTYPE": "Κινηματογράφος-Θέατρο-Ψυχαγωγία",
+		"ENABLED": "1",
+		"AROMAID": "18"
+	},
+	{
+		"ID": "4467",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "18"
+	},
+	{
+		"ID": "4469",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "18"
+	},
+	{
+		"ID": "4470",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "18"
+	},
+	{
+		"ID": "4481",
+		"COMPANYID": "6",
+		"COMPANYTYPE": "Αρτοποιείο - Ζαχ/πλαστείο",
+		"ENABLED": "1",
+		"AROMAID": "19"
+	},
+	{
+		"ID": "4482",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "19"
+	},
+	{
+		"ID": "4485",
+		"COMPANYID": "10",
+		"COMPANYTYPE": "Είδη Καπνιστών",
+		"ENABLED": "1",
+		"AROMAID": "19"
+	},
+	{
+		"ID": "4486",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "19"
+	},
+	{
+		"ID": "4490",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "19"
+	},
+	{
+		"ID": "4491",
+		"COMPANYID": "16",
+		"COMPANYTYPE": "Κινηματογράφος-Θέατρο-Ψυχαγωγία",
+		"ENABLED": "1",
+		"AROMAID": "19"
+	},
+	{
+		"ID": "4492",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "19"
+	},
+	{
+		"ID": "4494",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "19"
+	},
+	{
+		"ID": "4495",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "19"
+	},
+	{
+		"ID": "4496",
+		"COMPANYID": "21",
+		"COMPANYTYPE": "Τυχερά Παιχνίδια",
+		"ENABLED": "1",
+		"AROMAID": "19"
+	},
+	{
+		"ID": "4498",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "19"
+	},
+	{
+		"ID": "4505",
+		"COMPANYID": "5",
+		"COMPANYTYPE": "Αξεσουάρ - Κόσμημα",
+		"ENABLED": "1",
+		"AROMAID": "20"
+	},
+	{
+		"ID": "4507",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "20"
+	},
+	{
+		"ID": "4511",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "20"
+	},
+	{
+		"ID": "4513",
+		"COMPANYID": "13",
+		"COMPANYTYPE": "Εσώρουχα",
+		"ENABLED": "1",
+		"AROMAID": "20"
+	},
+	{
+		"ID": "4518",
+		"COMPANYID": "18",
+		"COMPANYTYPE": "Οπτικά",
+		"ENABLED": "1",
+		"AROMAID": "20"
+	},
+	{
+		"ID": "4523",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "20"
+	},
+	{
+		"ID": "4525",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "20"
+	},
+	{
+		"ID": "4530",
+		"COMPANYID": "5",
+		"COMPANYTYPE": "Αξεσουάρ - Κόσμημα",
+		"ENABLED": "1",
+		"AROMAID": "21"
+	},
+	{
+		"ID": "4532",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "21"
+	},
+	{
+		"ID": "4536",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "21"
+	},
+	{
+		"ID": "4538",
+		"COMPANYID": "13",
+		"COMPANYTYPE": "Εσώρουχα",
+		"ENABLED": "1",
+		"AROMAID": "21"
+	},
+	{
+		"ID": "4542",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "21"
+	},
+	{
+		"ID": "4543",
+		"COMPANYID": "18",
+		"COMPANYTYPE": "Οπτικά",
+		"ENABLED": "1",
+		"AROMAID": "21"
+	},
+	{
+		"ID": "4548",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "21"
+	},
+	{
+		"ID": "4550",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "21"
+	},
+	{
+		"ID": "4556",
+		"COMPANYID": "6",
+		"COMPANYTYPE": "Αρτοποιείο - Ζαχ/πλαστείο",
+		"ENABLED": "1",
+		"AROMAID": "22"
+	},
+	{
+		"ID": "4557",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "22"
+	},
+	{
+		"ID": "4560",
+		"COMPANYID": "10",
+		"COMPANYTYPE": "Είδη Καπνιστών",
+		"ENABLED": "1",
+		"AROMAID": "22"
+	},
+	{
+		"ID": "4561",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "22"
+	},
+	{
+		"ID": "4565",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "22"
+	},
+	{
+		"ID": "4566",
+		"COMPANYID": "16",
+		"COMPANYTYPE": "Κινηματογράφος-Θέατρο-Ψυχαγωγία",
+		"ENABLED": "1",
+		"AROMAID": "22"
+	},
+	{
+		"ID": "4567",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "22"
+	},
+	{
+		"ID": "4569",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "22"
+	},
+	{
+		"ID": "4570",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "22"
+	},
+	{
+		"ID": "4576",
+		"COMPANYID": "1",
+		"COMPANYTYPE": "Auto - Moto",
+		"ENABLED": "1",
+		"AROMAID": "23"
+	},
+	{
+		"ID": "4577",
+		"COMPANYID": "2",
+		"COMPANYTYPE": "Hobby (Κυνήγι-Αλιεία κτλ)",
+		"ENABLED": "1",
+		"AROMAID": "23"
+	},
+	{
+		"ID": "4578",
+		"COMPANYID": "3",
+		"COMPANYTYPE": "Pet Shop",
+		"ENABLED": "1",
+		"AROMAID": "23"
+	},
+	{
+		"ID": "4580",
+		"COMPANYID": "5",
+		"COMPANYTYPE": "Αξεσουάρ - Κόσμημα",
+		"ENABLED": "1",
+		"AROMAID": "23"
+	},
+	{
+		"ID": "4582",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "23"
+	},
+	{
+		"ID": "4583",
+		"COMPANYID": "8",
+		"COMPANYTYPE": "Βιβλιοπωλείο",
+		"ENABLED": "1",
+		"AROMAID": "23"
+	},
+	{
+		"ID": "4584",
+		"COMPANYID": "9",
+		"COMPANYTYPE": "Γραφεία",
+		"ENABLED": "1",
+		"AROMAID": "23"
+	},
+	{
+		"ID": "4590",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "23"
+	},
+	{
+		"ID": "4591",
+		"COMPANYID": "16",
+		"COMPANYTYPE": "Κινηματογράφος-Θέατρο-Ψυχαγωγία",
+		"ENABLED": "1",
+		"AROMAID": "23"
+	},
+	{
+		"ID": "4592",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "23"
+	},
+	{
+		"ID": "4593",
+		"COMPANYID": "18",
+		"COMPANYTYPE": "Οπτικά",
+		"ENABLED": "1",
+		"AROMAID": "23"
+	},
+	{
+		"ID": "4594",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "23"
+	},
+	{
+		"ID": "4595",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "23"
+	},
+	{
+		"ID": "4597",
+		"COMPANYID": "22",
+		"COMPANYTYPE": "Υπηρεσίες Εκπαίδευσης",
+		"ENABLED": "1",
+		"AROMAID": "23"
+	},
+	{
+		"ID": "4598",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "23"
+	},
+	{
+		"ID": "4599",
+		"COMPANYID": "24",
+		"COMPANYTYPE": "Υπηρεσίες Υγείας",
+		"ENABLED": "1",
+		"AROMAID": "23"
+	},
+	{
+		"ID": "4605",
+		"COMPANYID": "5",
+		"COMPANYTYPE": "Αξεσουάρ - Κόσμημα",
+		"ENABLED": "1",
+		"AROMAID": "24"
+	},
+	{
+		"ID": "4607",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "24"
+	},
+	{
+		"ID": "4611",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "24"
+	},
+	{
+		"ID": "4612",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "24"
+	},
+	{
+		"ID": "4613",
+		"COMPANYID": "13",
+		"COMPANYTYPE": "Εσώρουχα",
+		"ENABLED": "1",
+		"AROMAID": "24"
+	},
+	{
+		"ID": "4617",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "24"
+	},
+	{
+		"ID": "4618",
+		"COMPANYID": "18",
+		"COMPANYTYPE": "Οπτικά",
+		"ENABLED": "1",
+		"AROMAID": "24"
+	},
+	{
+		"ID": "4623",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "24"
+	},
+	{
+		"ID": "4625",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "24"
+	},
+	{
+		"ID": "4631",
+		"COMPANYID": "6",
+		"COMPANYTYPE": "Αρτοποιείο - Ζαχ/πλαστείο",
+		"ENABLED": "1",
+		"AROMAID": "25"
+	},
+	{
+		"ID": "4635",
+		"COMPANYID": "10",
+		"COMPANYTYPE": "Είδη Καπνιστών",
+		"ENABLED": "1",
+		"AROMAID": "25"
+	},
+	{
+		"ID": "4640",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "25"
+	},
+	{
+		"ID": "4641",
+		"COMPANYID": "16",
+		"COMPANYTYPE": "Κινηματογράφος-Θέατρο-Ψυχαγωγία",
+		"ENABLED": "1",
+		"AROMAID": "25"
+	},
+	{
+		"ID": "4642",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "25"
+	},
+	{
+		"ID": "4644",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "25"
+	},
+	{
+		"ID": "4645",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "25"
+	},
+	{
+		"ID": "4646",
+		"COMPANYID": "21",
+		"COMPANYTYPE": "Τυχερά Παιχνίδια",
+		"ENABLED": "1",
+		"AROMAID": "25"
+	},
+	{
+		"ID": "4655",
+		"COMPANYID": "5",
+		"COMPANYTYPE": "Αξεσουάρ - Κόσμημα",
+		"ENABLED": "1",
+		"AROMAID": "26"
+	},
+	{
+		"ID": "4657",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "26"
+	},
+	{
+		"ID": "4661",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "26"
+	},
+	{
+		"ID": "4662",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "26"
+	},
+	{
+		"ID": "4663",
+		"COMPANYID": "13",
+		"COMPANYTYPE": "Εσώρουχα",
+		"ENABLED": "1",
+		"AROMAID": "26"
+	},
+	{
+		"ID": "4667",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "26"
+	},
+	{
+		"ID": "4673",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "26"
+	},
+	{
+		"ID": "4674",
+		"COMPANYID": "24",
+		"COMPANYTYPE": "Υπηρεσίες Υγείας",
+		"ENABLED": "1",
+		"AROMAID": "26"
+	},
+	{
+		"ID": "4681",
+		"COMPANYID": "6",
+		"COMPANYTYPE": "Αρτοποιείο - Ζαχ/πλαστείο",
+		"ENABLED": "1",
+		"AROMAID": "27"
+	},
+	{
+		"ID": "4690",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "27"
+	},
+	{
+		"ID": "4692",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "27"
+	},
+	{
+		"ID": "4694",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "27"
+	},
+	{
+		"ID": "4695",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "27"
+	},
+	{
+		"ID": "4705",
+		"COMPANYID": "5",
+		"COMPANYTYPE": "Αξεσουάρ - Κόσμημα",
+		"ENABLED": "1",
+		"AROMAID": "28"
+	},
+	{
+		"ID": "4707",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "28"
+	},
+	{
+		"ID": "4711",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "28"
+	},
+	{
+		"ID": "4713",
+		"COMPANYID": "13",
+		"COMPANYTYPE": "Εσώρουχα",
+		"ENABLED": "1",
+		"AROMAID": "28"
+	},
+	{
+		"ID": "4723",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "28"
+	},
+	{
+		"ID": "4725",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "28"
+	},
+	{
+		"ID": "4726",
+		"COMPANYID": "1",
+		"COMPANYTYPE": "Auto - Moto",
+		"ENABLED": "1",
+		"AROMAID": "29"
+	},
+	{
+		"ID": "4727",
+		"COMPANYID": "2",
+		"COMPANYTYPE": "Hobby (Κυνήγι-Αλιεία κτλ)",
+		"ENABLED": "1",
+		"AROMAID": "29"
+	},
+	{
+		"ID": "4728",
+		"COMPANYID": "3",
+		"COMPANYTYPE": "Pet Shop",
+		"ENABLED": "1",
+		"AROMAID": "29"
+	},
+	{
+		"ID": "4732",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "29"
+	},
+	{
+		"ID": "4733",
+		"COMPANYID": "8",
+		"COMPANYTYPE": "Βιβλιοπωλείο",
+		"ENABLED": "1",
+		"AROMAID": "29"
+	},
+	{
+		"ID": "4735",
+		"COMPANYID": "10",
+		"COMPANYTYPE": "Είδη Καπνιστών",
+		"ENABLED": "1",
+		"AROMAID": "29"
+	},
+	{
+		"ID": "4736",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "29"
+	},
+	{
+		"ID": "4739",
+		"COMPANYID": "14",
+		"COMPANYTYPE": "Ηλεκτρικά-Ηλεκτρονικά",
+		"ENABLED": "1",
+		"AROMAID": "29"
+	},
+	{
+		"ID": "4740",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "29"
+	},
+	{
+		"ID": "4741",
+		"COMPANYID": "16",
+		"COMPANYTYPE": "Κινηματογράφος-Θέατρο-Ψυχαγωγία",
+		"ENABLED": "1",
+		"AROMAID": "29"
+	},
+	{
+		"ID": "4742",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "29"
+	},
+	{
+		"ID": "4744",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "29"
+	},
+	{
+		"ID": "4745",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "29"
+	},
+	{
+		"ID": "4746",
+		"COMPANYID": "21",
+		"COMPANYTYPE": "Τυχερά Παιχνίδια",
+		"ENABLED": "1",
+		"AROMAID": "29"
+	},
+	{
+		"ID": "4747",
+		"COMPANYID": "22",
+		"COMPANYTYPE": "Υπηρεσίες Εκπαίδευσης",
+		"ENABLED": "1",
+		"AROMAID": "29"
+	},
+	{
+		"ID": "4748",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "29"
+	},
+	{
+		"ID": "4749",
+		"COMPANYID": "24",
+		"COMPANYTYPE": "Υπηρεσίες Υγείας",
+		"ENABLED": "1",
+		"AROMAID": "29"
+	},
+	{
+		"ID": "4750",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "29"
+	},
+	{
+		"ID": "4751",
+		"COMPANYID": "1",
+		"COMPANYTYPE": "Auto - Moto",
+		"ENABLED": "1",
+		"AROMAID": "30"
+	},
+	{
+		"ID": "4752",
+		"COMPANYID": "2",
+		"COMPANYTYPE": "Hobby (Κυνήγι-Αλιεία κτλ)",
+		"ENABLED": "1",
+		"AROMAID": "30"
+	},
+	{
+		"ID": "4753",
+		"COMPANYID": "3",
+		"COMPANYTYPE": "Pet Shop",
+		"ENABLED": "1",
+		"AROMAID": "30"
+	},
+	{
+		"ID": "4757",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "30"
+	},
+	{
+		"ID": "4758",
+		"COMPANYID": "8",
+		"COMPANYTYPE": "Βιβλιοπωλείο",
+		"ENABLED": "1",
+		"AROMAID": "30"
+	},
+	{
+		"ID": "4760",
+		"COMPANYID": "10",
+		"COMPANYTYPE": "Είδη Καπνιστών",
+		"ENABLED": "1",
+		"AROMAID": "30"
+	},
+	{
+		"ID": "4761",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "30"
+	},
+	{
+		"ID": "4764",
+		"COMPANYID": "14",
+		"COMPANYTYPE": "Ηλεκτρικά-Ηλεκτρονικά",
+		"ENABLED": "1",
+		"AROMAID": "30"
+	},
+	{
+		"ID": "4765",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "30"
+	},
+	{
+		"ID": "4766",
+		"COMPANYID": "16",
+		"COMPANYTYPE": "Κινηματογράφος-Θέατρο-Ψυχαγωγία",
+		"ENABLED": "1",
+		"AROMAID": "30"
+	},
+	{
+		"ID": "4767",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "30"
+	},
+	{
+		"ID": "4769",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "30"
+	},
+	{
+		"ID": "4770",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "30"
+	},
+	{
+		"ID": "4771",
+		"COMPANYID": "21",
+		"COMPANYTYPE": "Τυχερά Παιχνίδια",
+		"ENABLED": "1",
+		"AROMAID": "30"
+	},
+	{
+		"ID": "4772",
+		"COMPANYID": "22",
+		"COMPANYTYPE": "Υπηρεσίες Εκπαίδευσης",
+		"ENABLED": "1",
+		"AROMAID": "30"
+	},
+	{
+		"ID": "4773",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "30"
+	},
+	{
+		"ID": "4774",
+		"COMPANYID": "24",
+		"COMPANYTYPE": "Υπηρεσίες Υγείας",
+		"ENABLED": "1",
+		"AROMAID": "30"
+	},
+	{
+		"ID": "4775",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "30"
+	},
+	{
+		"ID": "4781",
+		"COMPANYID": "6",
+		"COMPANYTYPE": "Αρτοποιείο - Ζαχ/πλαστείο",
+		"ENABLED": "1",
+		"AROMAID": "31"
+	},
+	{
+		"ID": "4782",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "31"
+	},
+	{
+		"ID": "4783",
+		"COMPANYID": "8",
+		"COMPANYTYPE": "Βιβλιοπωλείο",
+		"ENABLED": "1",
+		"AROMAID": "31"
+	},
+	{
+		"ID": "4785",
+		"COMPANYID": "10",
+		"COMPANYTYPE": "Είδη Καπνιστών",
+		"ENABLED": "1",
+		"AROMAID": "31"
+	},
+	{
+		"ID": "4787",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "31"
+	},
+	{
+		"ID": "4790",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "31"
+	},
+	{
+		"ID": "4791",
+		"COMPANYID": "16",
+		"COMPANYTYPE": "Κινηματογράφος-Θέατρο-Ψυχαγωγία",
+		"ENABLED": "1",
+		"AROMAID": "31"
+	},
+	{
+		"ID": "4792",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "31"
+	},
+	{
+		"ID": "4794",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "31"
+	},
+	{
+		"ID": "4795",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "31"
+	},
+	{
+		"ID": "4796",
+		"COMPANYID": "21",
+		"COMPANYTYPE": "Τυχερά Παιχνίδια",
+		"ENABLED": "1",
+		"AROMAID": "31"
+	},
+	{
+		"ID": "4806",
+		"COMPANYID": "6",
+		"COMPANYTYPE": "Αρτοποιείο - Ζαχ/πλαστείο",
+		"ENABLED": "1",
+		"AROMAID": "32"
+	},
+	{
+		"ID": "4810",
+		"COMPANYID": "10",
+		"COMPANYTYPE": "Είδη Καπνιστών",
+		"ENABLED": "1",
+		"AROMAID": "32"
+	},
+	{
+		"ID": "4815",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "32"
+	},
+	{
+		"ID": "4817",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "32"
+	},
+	{
+		"ID": "4820",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "32"
+	},
+	{
+		"ID": "4830",
+		"COMPANYID": "5",
+		"COMPANYTYPE": "Αξεσουάρ - Κόσμημα",
+		"ENABLED": "1",
+		"AROMAID": "33"
+	},
+	{
+		"ID": "4832",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "33"
+	},
+	{
+		"ID": "4836",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "33"
+	},
+	{
+		"ID": "4837",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "33"
+	},
+	{
+		"ID": "4838",
+		"COMPANYID": "13",
+		"COMPANYTYPE": "Εσώρουχα",
+		"ENABLED": "1",
+		"AROMAID": "33"
+	},
+	{
+		"ID": "4842",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "33"
+	},
+	{
+		"ID": "4843",
+		"COMPANYID": "18",
+		"COMPANYTYPE": "Οπτικά",
+		"ENABLED": "1",
+		"AROMAID": "33"
+	},
+	{
+		"ID": "4844",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "33"
+	},
+	{
+		"ID": "4848",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "33"
+	},
+	{
+		"ID": "4850",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "33"
+	},
+	{
+		"ID": "4851",
+		"COMPANYID": "1",
+		"COMPANYTYPE": "Auto - Moto",
+		"ENABLED": "1",
+		"AROMAID": "34"
+	},
+	{
+		"ID": "4857",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "34"
+	},
+	{
+		"ID": "4861",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "34"
+	},
+	{
+		"ID": "4862",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "34"
+	},
+	{
+		"ID": "4867",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "34"
+	},
+	{
+		"ID": "4869",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "34"
+	},
+	{
+		"ID": "4870",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "34"
+	},
+	{
+		"ID": "4873",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "34"
+	},
+	{
+		"ID": "4874",
+		"COMPANYID": "24",
+		"COMPANYTYPE": "Υπηρεσίες Υγείας",
+		"ENABLED": "1",
+		"AROMAID": "34"
+	},
+	{
+		"ID": "4875",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "34"
+	},
+	{
+		"ID": "4880",
+		"COMPANYID": "5",
+		"COMPANYTYPE": "Αξεσουάρ - Κόσμημα",
+		"ENABLED": "1",
+		"AROMAID": "35"
+	},
+	{
+		"ID": "4882",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "35"
+	},
+	{
+		"ID": "4884",
+		"COMPANYID": "9",
+		"COMPANYTYPE": "Γραφεία",
+		"ENABLED": "1",
+		"AROMAID": "35"
+	},
+	{
+		"ID": "4886",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "35"
+	},
+	{
+		"ID": "4887",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "35"
+	},
+	{
+		"ID": "4888",
+		"COMPANYID": "13",
+		"COMPANYTYPE": "Εσώρουχα",
+		"ENABLED": "1",
+		"AROMAID": "35"
+	},
+	{
+		"ID": "4889",
+		"COMPANYID": "14",
+		"COMPANYTYPE": "Ηλεκτρικά-Ηλεκτρονικά",
+		"ENABLED": "1",
+		"AROMAID": "35"
+	},
+	{
+		"ID": "4892",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "35"
+	},
+	{
+		"ID": "4893",
+		"COMPANYID": "18",
+		"COMPANYTYPE": "Οπτικά",
+		"ENABLED": "1",
+		"AROMAID": "35"
+	},
+	{
+		"ID": "4898",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "35"
+	},
+	{
+		"ID": "4900",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "35"
+	},
+	{
+		"ID": "4926",
+		"COMPANYID": "1",
+		"COMPANYTYPE": "Auto - Moto",
+		"ENABLED": "1",
+		"AROMAID": "37"
+	},
+	{
+		"ID": "4930",
+		"COMPANYID": "5",
+		"COMPANYTYPE": "Αξεσουάρ - Κόσμημα",
+		"ENABLED": "1",
+		"AROMAID": "37"
+	},
+	{
+		"ID": "4932",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "37"
+	},
+	{
+		"ID": "4933",
+		"COMPANYID": "8",
+		"COMPANYTYPE": "Βιβλιοπωλείο",
+		"ENABLED": "1",
+		"AROMAID": "37"
+	},
+	{
+		"ID": "4934",
+		"COMPANYID": "9",
+		"COMPANYTYPE": "Γραφεία",
+		"ENABLED": "1",
+		"AROMAID": "37"
+	},
+	{
+		"ID": "4935",
+		"COMPANYID": "10",
+		"COMPANYTYPE": "Είδη Καπνιστών",
+		"ENABLED": "1",
+		"AROMAID": "37"
+	},
+	{
+		"ID": "4936",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "37"
+	},
+	{
+		"ID": "4937",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "37"
+	},
+	{
+		"ID": "4940",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "37"
+	},
+	{
+		"ID": "4942",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "37"
+	},
+	{
+		"ID": "4950",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "37"
+	},
+	{
+		"ID": "4952",
+		"COMPANYID": "2",
+		"COMPANYTYPE": "Hobby (Κυνήγι-Αλιεία κτλ)",
+		"ENABLED": "1",
+		"AROMAID": "38"
+	},
+	{
+		"ID": "4953",
+		"COMPANYID": "3",
+		"COMPANYTYPE": "Pet Shop",
+		"ENABLED": "1",
+		"AROMAID": "38"
+	},
+	{
+		"ID": "4954",
+		"COMPANYID": "4",
+		"COMPANYTYPE": "Ανθοπωλεία",
+		"ENABLED": "1",
+		"AROMAID": "38"
+	},
+	{
+		"ID": "4964",
+		"COMPANYID": "14",
+		"COMPANYTYPE": "Ηλεκτρικά-Ηλεκτρονικά",
+		"ENABLED": "1",
+		"AROMAID": "38"
+	},
+	{
+		"ID": "4965",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "38"
+	},
+	{
+		"ID": "4966",
+		"COMPANYID": "16",
+		"COMPANYTYPE": "Κινηματογράφος-Θέατρο-Ψυχαγωγία",
+		"ENABLED": "1",
+		"AROMAID": "38"
+	},
+	{
+		"ID": "4967",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "38"
+	},
+	{
+		"ID": "4969",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "38"
+	},
+	{
+		"ID": "4970",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "38"
+	},
+	{
+		"ID": "4973",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "38"
+	},
+	{
+		"ID": "4974",
+		"COMPANYID": "24",
+		"COMPANYTYPE": "Υπηρεσίες Υγείας",
+		"ENABLED": "1",
+		"AROMAID": "38"
+	},
+	{
+		"ID": "4976",
+		"COMPANYID": "1",
+		"COMPANYTYPE": "Auto - Moto",
+		"ENABLED": "1",
+		"AROMAID": "39"
+	},
+	{
+		"ID": "4977",
+		"COMPANYID": "2",
+		"COMPANYTYPE": "Hobby (Κυνήγι-Αλιεία κτλ)",
+		"ENABLED": "1",
+		"AROMAID": "39"
+	},
+	{
+		"ID": "4978",
+		"COMPANYID": "3",
+		"COMPANYTYPE": "Pet Shop",
+		"ENABLED": "1",
+		"AROMAID": "39"
+	},
+	{
+		"ID": "4979",
+		"COMPANYID": "4",
+		"COMPANYTYPE": "Ανθοπωλεία",
+		"ENABLED": "1",
+		"AROMAID": "39"
+	},
+	{
+		"ID": "4981",
+		"COMPANYID": "6",
+		"COMPANYTYPE": "Αρτοποιείο - Ζαχ/πλαστείο",
+		"ENABLED": "1",
+		"AROMAID": "39"
+	},
+	{
+		"ID": "4982",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "39"
+	},
+	{
+		"ID": "4983",
+		"COMPANYID": "8",
+		"COMPANYTYPE": "Βιβλιοπωλείο",
+		"ENABLED": "1",
+		"AROMAID": "39"
+	},
+	{
+		"ID": "4985",
+		"COMPANYID": "10",
+		"COMPANYTYPE": "Είδη Καπνιστών",
+		"ENABLED": "1",
+		"AROMAID": "39"
+	},
+	{
+		"ID": "4986",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "39"
+	},
+	{
+		"ID": "4989",
+		"COMPANYID": "14",
+		"COMPANYTYPE": "Ηλεκτρικά-Ηλεκτρονικά",
+		"ENABLED": "1",
+		"AROMAID": "39"
+	},
+	{
+		"ID": "4990",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "39"
+	},
+	{
+		"ID": "4991",
+		"COMPANYID": "16",
+		"COMPANYTYPE": "Κινηματογράφος-Θέατρο-Ψυχαγωγία",
+		"ENABLED": "1",
+		"AROMAID": "39"
+	},
+	{
+		"ID": "4992",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "39"
+	},
+	{
+		"ID": "4994",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "39"
+	},
+	{
+		"ID": "4995",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "39"
+	},
+	{
+		"ID": "4996",
+		"COMPANYID": "21",
+		"COMPANYTYPE": "Τυχερά Παιχνίδια",
+		"ENABLED": "1",
+		"AROMAID": "39"
+	},
+	{
+		"ID": "4998",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "39"
+	},
+	{
+		"ID": "4999",
+		"COMPANYID": "24",
+		"COMPANYTYPE": "Υπηρεσίες Υγείας",
+		"ENABLED": "1",
+		"AROMAID": "39"
+	},
+	{
+		"ID": "5000",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "39"
+	},
+	{
+		"ID": "5001",
+		"COMPANYID": "1",
+		"COMPANYTYPE": "Auto - Moto",
+		"ENABLED": "1",
+		"AROMAID": "40"
+	},
+	{
+		"ID": "5002",
+		"COMPANYID": "2",
+		"COMPANYTYPE": "Hobby (Κυνήγι-Αλιεία κτλ)",
+		"ENABLED": "1",
+		"AROMAID": "40"
+	},
+	{
+		"ID": "5005",
+		"COMPANYID": "5",
+		"COMPANYTYPE": "Αξεσουάρ - Κόσμημα",
+		"ENABLED": "1",
+		"AROMAID": "40"
+	},
+	{
+		"ID": "5007",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "40"
+	},
+	{
+		"ID": "5011",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "40"
+	},
+	{
+		"ID": "5012",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "40"
+	},
+	{
+		"ID": "5013",
+		"COMPANYID": "13",
+		"COMPANYTYPE": "Εσώρουχα",
+		"ENABLED": "1",
+		"AROMAID": "40"
+	},
+	{
+		"ID": "5015",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "40"
+	},
+	{
+		"ID": "5017",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "40"
+	},
+	{
+		"ID": "5025",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "40"
+	},
+	{
+		"ID": "5029",
+		"COMPANYID": "4",
+		"COMPANYTYPE": "Ανθοπωλεία",
+		"ENABLED": "1",
+		"AROMAID": "41"
+	},
+	{
+		"ID": "5030",
+		"COMPANYID": "5",
+		"COMPANYTYPE": "Αξεσουάρ - Κόσμημα",
+		"ENABLED": "1",
+		"AROMAID": "41"
+	},
+	{
+		"ID": "5032",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "41"
+	},
+	{
+		"ID": "5036",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "41"
+	},
+	{
+		"ID": "5037",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "41"
+	},
+	{
+		"ID": "5038",
+		"COMPANYID": "13",
+		"COMPANYTYPE": "Εσώρουχα",
+		"ENABLED": "1",
+		"AROMAID": "41"
+	},
+	{
+		"ID": "5039",
+		"COMPANYID": "14",
+		"COMPANYTYPE": "Ηλεκτρικά-Ηλεκτρονικά",
+		"ENABLED": "1",
+		"AROMAID": "41"
+	},
+	{
+		"ID": "5042",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "41"
+	},
+	{
+		"ID": "5043",
+		"COMPANYID": "18",
+		"COMPANYTYPE": "Οπτικά",
+		"ENABLED": "1",
+		"AROMAID": "41"
+	},
+	{
+		"ID": "5044",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "41"
+	},
+	{
+		"ID": "5046",
+		"COMPANYID": "21",
+		"COMPANYTYPE": "Τυχερά Παιχνίδια",
+		"ENABLED": "1",
+		"AROMAID": "41"
+	},
+	{
+		"ID": "5048",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "41"
+	},
+	{
+		"ID": "5050",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "41"
+	},
+	{
+		"ID": "5056",
+		"COMPANYID": "6",
+		"COMPANYTYPE": "Αρτοποιείο - Ζαχ/πλαστείο",
+		"ENABLED": "1",
+		"AROMAID": "42"
+	},
+	{
+		"ID": "5057",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "42"
+	},
+	{
+		"ID": "5058",
+		"COMPANYID": "8",
+		"COMPANYTYPE": "Βιβλιοπωλείο",
+		"ENABLED": "1",
+		"AROMAID": "42"
+	},
+	{
+		"ID": "5060",
+		"COMPANYID": "10",
+		"COMPANYTYPE": "Είδη Καπνιστών",
+		"ENABLED": "1",
+		"AROMAID": "42"
+	},
+	{
+		"ID": "5061",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "42"
+	},
+	{
+		"ID": "5064",
+		"COMPANYID": "14",
+		"COMPANYTYPE": "Ηλεκτρικά-Ηλεκτρονικά",
+		"ENABLED": "1",
+		"AROMAID": "42"
+	},
+	{
+		"ID": "5065",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "42"
+	},
+	{
+		"ID": "5066",
+		"COMPANYID": "16",
+		"COMPANYTYPE": "Κινηματογράφος-Θέατρο-Ψυχαγωγία",
+		"ENABLED": "1",
+		"AROMAID": "42"
+	},
+	{
+		"ID": "5067",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "42"
+	},
+	{
+		"ID": "5069",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "42"
+	},
+	{
+		"ID": "5070",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "42"
+	},
+	{
+		"ID": "5071",
+		"COMPANYID": "21",
+		"COMPANYTYPE": "Τυχερά Παιχνίδια",
+		"ENABLED": "1",
+		"AROMAID": "42"
+	},
+	{
+		"ID": "5075",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "42"
+	},
+	{
+		"ID": "5076",
+		"COMPANYID": "1",
+		"COMPANYTYPE": "Auto - Moto",
+		"ENABLED": "1",
+		"AROMAID": "43"
+	},
+	{
+		"ID": "5077",
+		"COMPANYID": "2",
+		"COMPANYTYPE": "Hobby (Κυνήγι-Αλιεία κτλ)",
+		"ENABLED": "1",
+		"AROMAID": "43"
+	},
+	{
+		"ID": "5080",
+		"COMPANYID": "5",
+		"COMPANYTYPE": "Αξεσουάρ - Κόσμημα",
+		"ENABLED": "1",
+		"AROMAID": "43"
+	},
+	{
+		"ID": "5082",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "43"
+	},
+	{
+		"ID": "5086",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "43"
+	},
+	{
+		"ID": "5087",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "43"
+	},
+	{
+		"ID": "5088",
+		"COMPANYID": "13",
+		"COMPANYTYPE": "Εσώρουχα",
+		"ENABLED": "1",
+		"AROMAID": "43"
+	},
+	{
+		"ID": "5090",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "43"
+	},
+	{
+		"ID": "5092",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "43"
+	},
+	{
+		"ID": "5093",
+		"COMPANYID": "18",
+		"COMPANYTYPE": "Οπτικά",
+		"ENABLED": "1",
+		"AROMAID": "43"
+	},
+	{
+		"ID": "5094",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "43"
+	},
+	{
+		"ID": "5096",
+		"COMPANYID": "21",
+		"COMPANYTYPE": "Τυχερά Παιχνίδια",
+		"ENABLED": "1",
+		"AROMAID": "43"
+	},
+	{
+		"ID": "5098",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "43"
+	},
+	{
+		"ID": "5099",
+		"COMPANYID": "24",
+		"COMPANYTYPE": "Υπηρεσίες Υγείας",
+		"ENABLED": "1",
+		"AROMAID": "43"
+	},
+	{
+		"ID": "5100",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "43"
+	},
+	{
+		"ID": "5101",
+		"COMPANYID": "1",
+		"COMPANYTYPE": "Auto - Moto",
+		"ENABLED": "1",
+		"AROMAID": "44"
+	},
+	{
+		"ID": "5102",
+		"COMPANYID": "2",
+		"COMPANYTYPE": "Hobby (Κυνήγι-Αλιεία κτλ)",
+		"ENABLED": "1",
+		"AROMAID": "44"
+	},
+	{
+		"ID": "5105",
+		"COMPANYID": "5",
+		"COMPANYTYPE": "Αξεσουάρ - Κόσμημα",
+		"ENABLED": "1",
+		"AROMAID": "44"
+	},
+	{
+		"ID": "5111",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "44"
+	},
+	{
+		"ID": "5112",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "44"
+	},
+	{
+		"ID": "5113",
+		"COMPANYID": "13",
+		"COMPANYTYPE": "Εσώρουχα",
+		"ENABLED": "1",
+		"AROMAID": "44"
+	},
+	{
+		"ID": "5118",
+		"COMPANYID": "18",
+		"COMPANYTYPE": "Οπτικά",
+		"ENABLED": "1",
+		"AROMAID": "44"
+	},
+	{
+		"ID": "5119",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "44"
+	},
+	{
+		"ID": "5121",
+		"COMPANYID": "21",
+		"COMPANYTYPE": "Τυχερά Παιχνίδια",
+		"ENABLED": "1",
+		"AROMAID": "44"
+	},
+	{
+		"ID": "5125",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "44"
+	},
+	{
+		"ID": "5126",
+		"COMPANYID": "1",
+		"COMPANYTYPE": "Auto - Moto",
+		"ENABLED": "1",
+		"AROMAID": "45"
+	},
+	{
+		"ID": "5127",
+		"COMPANYID": "2",
+		"COMPANYTYPE": "Hobby (Κυνήγι-Αλιεία κτλ)",
+		"ENABLED": "1",
+		"AROMAID": "45"
+	},
+	{
+		"ID": "5128",
+		"COMPANYID": "3",
+		"COMPANYTYPE": "Pet Shop",
+		"ENABLED": "1",
+		"AROMAID": "45"
+	},
+	{
+		"ID": "5132",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "45"
+	},
+	{
+		"ID": "5133",
+		"COMPANYID": "8",
+		"COMPANYTYPE": "Βιβλιοπωλείο",
+		"ENABLED": "1",
+		"AROMAID": "45"
+	},
+	{
+		"ID": "5134",
+		"COMPANYID": "9",
+		"COMPANYTYPE": "Γραφεία",
+		"ENABLED": "1",
+		"AROMAID": "45"
+	},
+	{
+		"ID": "5135",
+		"COMPANYID": "10",
+		"COMPANYTYPE": "Είδη Καπνιστών",
+		"ENABLED": "1",
+		"AROMAID": "45"
+	},
+	{
+		"ID": "5136",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "45"
+	},
+	{
+		"ID": "5138",
+		"COMPANYID": "13",
+		"COMPANYTYPE": "Εσώρουχα",
+		"ENABLED": "1",
+		"AROMAID": "45"
+	},
+	{
+		"ID": "5139",
+		"COMPANYID": "14",
+		"COMPANYTYPE": "Ηλεκτρικά-Ηλεκτρονικά",
+		"ENABLED": "1",
+		"AROMAID": "45"
+	},
+	{
+		"ID": "5140",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "45"
+	},
+	{
+		"ID": "5141",
+		"COMPANYID": "16",
+		"COMPANYTYPE": "Κινηματογράφος-Θέατρο-Ψυχαγωγία",
+		"ENABLED": "1",
+		"AROMAID": "45"
+	},
+	{
+		"ID": "5142",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "45"
+	},
+	{
+		"ID": "5143",
+		"COMPANYID": "18",
+		"COMPANYTYPE": "Οπτικά",
+		"ENABLED": "1",
+		"AROMAID": "45"
+	},
+	{
+		"ID": "5144",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "45"
+	},
+	{
+		"ID": "5145",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "45"
+	},
+	{
+		"ID": "5146",
+		"COMPANYID": "21",
+		"COMPANYTYPE": "Τυχερά Παιχνίδια",
+		"ENABLED": "1",
+		"AROMAID": "45"
+	},
+	{
+		"ID": "5147",
+		"COMPANYID": "22",
+		"COMPANYTYPE": "Υπηρεσίες Εκπαίδευσης",
+		"ENABLED": "1",
+		"AROMAID": "45"
+	},
+	{
+		"ID": "5148",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "45"
+	},
+	{
+		"ID": "5149",
+		"COMPANYID": "24",
+		"COMPANYTYPE": "Υπηρεσίες Υγείας",
+		"ENABLED": "1",
+		"AROMAID": "45"
+	},
+	{
+		"ID": "5150",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "45"
+	},
+	{
+		"ID": "5151",
+		"COMPANYID": "1",
+		"COMPANYTYPE": "Auto - Moto",
+		"ENABLED": "1",
+		"AROMAID": "46"
+	},
+	{
+		"ID": "5155",
+		"COMPANYID": "5",
+		"COMPANYTYPE": "Αξεσουάρ - Κόσμημα",
+		"ENABLED": "1",
+		"AROMAID": "46"
+	},
+	{
+		"ID": "5160",
+		"COMPANYID": "10",
+		"COMPANYTYPE": "Είδη Καπνιστών",
+		"ENABLED": "1",
+		"AROMAID": "46"
+	},
+	{
+		"ID": "5162",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "46"
+	},
+	{
+		"ID": "5163",
+		"COMPANYID": "13",
+		"COMPANYTYPE": "Εσώρουχα",
+		"ENABLED": "1",
+		"AROMAID": "46"
+	},
+	{
+		"ID": "5165",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "46"
+	},
+	{
+		"ID": "5167",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "46"
+	},
+	{
+		"ID": "5173",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "46"
+	},
+	{
+		"ID": "5175",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "46"
+	},
+	{
+		"ID": "5176",
+		"COMPANYID": "1",
+		"COMPANYTYPE": "Auto - Moto",
+		"ENABLED": "1",
+		"AROMAID": "47"
+	},
+	{
+		"ID": "5180",
+		"COMPANYID": "5",
+		"COMPANYTYPE": "Αξεσουάρ - Κόσμημα",
+		"ENABLED": "1",
+		"AROMAID": "47"
+	},
+	{
+		"ID": "5182",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "47"
+	},
+	{
+		"ID": "5183",
+		"COMPANYID": "8",
+		"COMPANYTYPE": "Βιβλιοπωλείο",
+		"ENABLED": "1",
+		"AROMAID": "47"
+	},
+	{
+		"ID": "5184",
+		"COMPANYID": "9",
+		"COMPANYTYPE": "Γραφεία",
+		"ENABLED": "1",
+		"AROMAID": "47"
+	},
+	{
+		"ID": "5186",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "47"
+	},
+	{
+		"ID": "5187",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "47"
+	},
+	{
+		"ID": "5188",
+		"COMPANYID": "13",
+		"COMPANYTYPE": "Εσώρουχα",
+		"ENABLED": "1",
+		"AROMAID": "47"
+	},
+	{
+		"ID": "5189",
+		"COMPANYID": "14",
+		"COMPANYTYPE": "Ηλεκτρικά-Ηλεκτρονικά",
+		"ENABLED": "1",
+		"AROMAID": "47"
+	},
+	{
+		"ID": "5191",
+		"COMPANYID": "16",
+		"COMPANYTYPE": "Κινηματογράφος-Θέατρο-Ψυχαγωγία",
+		"ENABLED": "1",
+		"AROMAID": "47"
+	},
+	{
+		"ID": "5192",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "47"
+	},
+	{
+		"ID": "5193",
+		"COMPANYID": "18",
+		"COMPANYTYPE": "Οπτικά",
+		"ENABLED": "1",
+		"AROMAID": "47"
+	},
+	{
+		"ID": "5194",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "47"
+	},
+	{
+		"ID": "5196",
+		"COMPANYID": "21",
+		"COMPANYTYPE": "Τυχερά Παιχνίδια",
+		"ENABLED": "1",
+		"AROMAID": "47"
+	},
+	{
+		"ID": "5197",
+		"COMPANYID": "22",
+		"COMPANYTYPE": "Υπηρεσίες Εκπαίδευσης",
+		"ENABLED": "1",
+		"AROMAID": "47"
+	},
+	{
+		"ID": "5198",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "47"
+	},
+	{
+		"ID": "5199",
+		"COMPANYID": "24",
+		"COMPANYTYPE": "Υπηρεσίες Υγείας",
+		"ENABLED": "1",
+		"AROMAID": "47"
+	},
+	{
+		"ID": "5200",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "47"
+	},
+	{
+		"ID": "5201",
+		"COMPANYID": "1",
+		"COMPANYTYPE": "Auto - Moto",
+		"ENABLED": "1",
+		"AROMAID": "48"
+	},
+	{
+		"ID": "5204",
+		"COMPANYID": "4",
+		"COMPANYTYPE": "Ανθοπωλεία",
+		"ENABLED": "1",
+		"AROMAID": "48"
+	},
+	{
+		"ID": "5205",
+		"COMPANYID": "5",
+		"COMPANYTYPE": "Αξεσουάρ - Κόσμημα",
+		"ENABLED": "1",
+		"AROMAID": "48"
+	},
+	{
+		"ID": "5207",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "48"
+	},
+	{
+		"ID": "5211",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "48"
+	},
+	{
+		"ID": "5212",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "48"
+	},
+	{
+		"ID": "5213",
+		"COMPANYID": "13",
+		"COMPANYTYPE": "Εσώρουχα",
+		"ENABLED": "1",
+		"AROMAID": "48"
+	},
+	{
+		"ID": "5217",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "48"
+	},
+	{
+		"ID": "5223",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "48"
+	},
+	{
+		"ID": "5225",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "48"
+	},
+	{
+		"ID": "5227",
+		"COMPANYID": "2",
+		"COMPANYTYPE": "Hobby (Κυνήγι-Αλιεία κτλ)",
+		"ENABLED": "1",
+		"AROMAID": "49"
+	},
+	{
+		"ID": "5228",
+		"COMPANYID": "3",
+		"COMPANYTYPE": "Pet Shop",
+		"ENABLED": "1",
+		"AROMAID": "49"
+	},
+	{
+		"ID": "5235",
+		"COMPANYID": "10",
+		"COMPANYTYPE": "Είδη Καπνιστών",
+		"ENABLED": "1",
+		"AROMAID": "49"
+	},
+	{
+		"ID": "5239",
+		"COMPANYID": "14",
+		"COMPANYTYPE": "Ηλεκτρικά-Ηλεκτρονικά",
+		"ENABLED": "1",
+		"AROMAID": "49"
+	},
+	{
+		"ID": "5240",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "49"
+	},
+	{
+		"ID": "5241",
+		"COMPANYID": "16",
+		"COMPANYTYPE": "Κινηματογράφος-Θέατρο-Ψυχαγωγία",
+		"ENABLED": "1",
+		"AROMAID": "49"
+	},
+	{
+		"ID": "5242",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "49"
+	},
+	{
+		"ID": "5244",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "49"
+	},
+	{
+		"ID": "5245",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "49"
+	},
+	{
+		"ID": "5249",
+		"COMPANYID": "24",
+		"COMPANYTYPE": "Υπηρεσίες Υγείας",
+		"ENABLED": "1",
+		"AROMAID": "49"
+	},
+	{
+		"ID": "5258",
+		"COMPANYID": "8",
+		"COMPANYTYPE": "Βιβλιοπωλείο",
+		"ENABLED": "1",
+		"AROMAID": "50"
+	},
+	{
+		"ID": "5260",
+		"COMPANYID": "10",
+		"COMPANYTYPE": "Είδη Καπνιστών",
+		"ENABLED": "1",
+		"AROMAID": "50"
+	},
+	{
+		"ID": "5263",
+		"COMPANYID": "13",
+		"COMPANYTYPE": "Εσώρουχα",
+		"ENABLED": "1",
+		"AROMAID": "50"
+	},
+	{
+		"ID": "5264",
+		"COMPANYID": "14",
+		"COMPANYTYPE": "Ηλεκτρικά-Ηλεκτρονικά",
+		"ENABLED": "1",
+		"AROMAID": "50"
+	},
+	{
+		"ID": "5265",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "50"
+	},
+	{
+		"ID": "5266",
+		"COMPANYID": "16",
+		"COMPANYTYPE": "Κινηματογράφος-Θέατρο-Ψυχαγωγία",
+		"ENABLED": "1",
+		"AROMAID": "50"
+	},
+	{
+		"ID": "5267",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "50"
+	},
+	{
+		"ID": "5269",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "50"
+	},
+	{
+		"ID": "5270",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "50"
+	},
+	{
+		"ID": "5273",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "50"
+	},
+	{
+		"ID": "5274",
+		"COMPANYID": "24",
+		"COMPANYTYPE": "Υπηρεσίες Υγείας",
+		"ENABLED": "1",
+		"AROMAID": "50"
+	},
+	{
+		"ID": "5276",
+		"COMPANYID": "1",
+		"COMPANYTYPE": "Auto - Moto",
+		"ENABLED": "1",
+		"AROMAID": "51"
+	},
+	{
+		"ID": "5277",
+		"COMPANYID": "2",
+		"COMPANYTYPE": "Hobby (Κυνήγι-Αλιεία κτλ)",
+		"ENABLED": "1",
+		"AROMAID": "51"
+	},
+	{
+		"ID": "5278",
+		"COMPANYID": "3",
+		"COMPANYTYPE": "Pet Shop",
+		"ENABLED": "1",
+		"AROMAID": "51"
+	},
+	{
+		"ID": "5279",
+		"COMPANYID": "4",
+		"COMPANYTYPE": "Ανθοπωλεία",
+		"ENABLED": "1",
+		"AROMAID": "51"
+	},
+	{
+		"ID": "5283",
+		"COMPANYID": "8",
+		"COMPANYTYPE": "Βιβλιοπωλείο",
+		"ENABLED": "1",
+		"AROMAID": "51"
+	},
+	{
+		"ID": "5294",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "51"
+	},
+	{
+		"ID": "5295",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "51"
+	},
+	{
+		"ID": "5315",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "52"
+	},
+	{
+		"ID": "5319",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "52"
+	},
+	{
+		"ID": "5320",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "52"
+	},
+	{
+		"ID": "5326",
+		"COMPANYID": "1",
+		"COMPANYTYPE": "Auto - Moto",
+		"ENABLED": "1",
+		"AROMAID": "53"
+	},
+	{
+		"ID": "5333",
+		"COMPANYID": "8",
+		"COMPANYTYPE": "Βιβλιοπωλείο",
+		"ENABLED": "1",
+		"AROMAID": "53"
+	},
+	{
+		"ID": "5334",
+		"COMPANYID": "9",
+		"COMPANYTYPE": "Γραφεία",
+		"ENABLED": "1",
+		"AROMAID": "53"
+	},
+	{
+		"ID": "5336",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "53"
+	},
+	{
+		"ID": "5338",
+		"COMPANYID": "13",
+		"COMPANYTYPE": "Εσώρουχα",
+		"ENABLED": "1",
+		"AROMAID": "53"
+	},
+	{
+		"ID": "5341",
+		"COMPANYID": "16",
+		"COMPANYTYPE": "Κινηματογράφος-Θέατρο-Ψυχαγωγία",
+		"ENABLED": "1",
+		"AROMAID": "53"
+	},
+	{
+		"ID": "5342",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "53"
+	},
+	{
+		"ID": "5346",
+		"COMPANYID": "21",
+		"COMPANYTYPE": "Τυχερά Παιχνίδια",
+		"ENABLED": "1",
+		"AROMAID": "53"
+	},
+	{
+		"ID": "5348",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "53"
+	},
+	{
+		"ID": "5349",
+		"COMPANYID": "24",
+		"COMPANYTYPE": "Υπηρεσίες Υγείας",
+		"ENABLED": "1",
+		"AROMAID": "53"
+	},
+	{
+		"ID": "5350",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "53"
+	},
+	{
+		"ID": "5351",
+		"COMPANYID": "1",
+		"COMPANYTYPE": "Auto - Moto",
+		"ENABLED": "1",
+		"AROMAID": "54"
+	},
+	{
+		"ID": "5352",
+		"COMPANYID": "2",
+		"COMPANYTYPE": "Hobby (Κυνήγι-Αλιεία κτλ)",
+		"ENABLED": "1",
+		"AROMAID": "54"
+	},
+	{
+		"ID": "5353",
+		"COMPANYID": "3",
+		"COMPANYTYPE": "Pet Shop",
+		"ENABLED": "1",
+		"AROMAID": "54"
+	},
+	{
+		"ID": "5358",
+		"COMPANYID": "8",
+		"COMPANYTYPE": "Βιβλιοπωλείο",
+		"ENABLED": "1",
+		"AROMAID": "54"
+	},
+	{
+		"ID": "5364",
+		"COMPANYID": "14",
+		"COMPANYTYPE": "Ηλεκτρικά-Ηλεκτρονικά",
+		"ENABLED": "1",
+		"AROMAID": "54"
+	},
+	{
+		"ID": "5369",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "54"
+	},
+	{
+		"ID": "5371",
+		"COMPANYID": "21",
+		"COMPANYTYPE": "Τυχερά Παιχνίδια",
+		"ENABLED": "1",
+		"AROMAID": "54"
+	},
+	{
+		"ID": "5372",
+		"COMPANYID": "22",
+		"COMPANYTYPE": "Υπηρεσίες Εκπαίδευσης",
+		"ENABLED": "1",
+		"AROMAID": "54"
+	},
+	{
+		"ID": "5373",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "54"
+	},
+	{
+		"ID": "5390",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "55"
+	},
+	{
+		"ID": "5392",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "55"
+	},
+	{
+		"ID": "5393",
+		"COMPANYID": "18",
+		"COMPANYTYPE": "Οπτικά",
+		"ENABLED": "1",
+		"AROMAID": "55"
+	},
+	{
+		"ID": "5394",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "55"
+	},
+	{
+		"ID": "5395",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "55"
+	},
+	{
+		"ID": "5401",
+		"COMPANYID": "1",
+		"COMPANYTYPE": "Auto - Moto",
+		"ENABLED": "1",
+		"AROMAID": "56"
+	},
+	{
+		"ID": "5405",
+		"COMPANYID": "5",
+		"COMPANYTYPE": "Αξεσουάρ - Κόσμημα",
+		"ENABLED": "1",
+		"AROMAID": "56"
+	},
+	{
+		"ID": "5407",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "56"
+	},
+	{
+		"ID": "5410",
+		"COMPANYID": "10",
+		"COMPANYTYPE": "Είδη Καπνιστών",
+		"ENABLED": "1",
+		"AROMAID": "56"
+	},
+	{
+		"ID": "5411",
+		"COMPANYID": "11",
+		"COMPANYTYPE": "Ενδύματα",
+		"ENABLED": "1",
+		"AROMAID": "56"
+	},
+	{
+		"ID": "5412",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "56"
+	},
+	{
+		"ID": "5413",
+		"COMPANYID": "13",
+		"COMPANYTYPE": "Εσώρουχα",
+		"ENABLED": "1",
+		"AROMAID": "56"
+	},
+	{
+		"ID": "5415",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "56"
+	},
+	{
+		"ID": "5417",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "56"
+	},
+	{
+		"ID": "5418",
+		"COMPANYID": "18",
+		"COMPANYTYPE": "Οπτικά",
+		"ENABLED": "1",
+		"AROMAID": "56"
+	},
+	{
+		"ID": "5423",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "56"
+	},
+	{
+		"ID": "5425",
+		"COMPANYID": "25",
+		"COMPANYTYPE": "Υποδήματα",
+		"ENABLED": "1",
+		"AROMAID": "56"
+	},
+	{
+		"ID": "5431",
+		"COMPANYID": "6",
+		"COMPANYTYPE": "Αρτοποιείο - Ζαχ/πλαστείο",
+		"ENABLED": "1",
+		"AROMAID": "57"
+	},
+	{
+		"ID": "5432",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "57"
+	},
+	{
+		"ID": "5440",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "57"
+	},
+	{
+		"ID": "5442",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "57"
+	},
+	{
+		"ID": "5444",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "57"
+	},
+	{
+		"ID": "5445",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "57"
+	},
+	{
+		"ID": "5447",
+		"COMPANYID": "22",
+		"COMPANYTYPE": "Υπηρεσίες Εκπαίδευσης",
+		"ENABLED": "1",
+		"AROMAID": "57"
+	},
+	{
+		"ID": "5448",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "57"
+	},
+	{
+		"ID": "5449",
+		"COMPANYID": "24",
+		"COMPANYTYPE": "Υπηρεσίες Υγείας",
+		"ENABLED": "1",
+		"AROMAID": "57"
+	},
+	{
+		"ID": "5456",
+		"COMPANYID": "6",
+		"COMPANYTYPE": "Αρτοποιείο - Ζαχ/πλαστείο",
+		"ENABLED": "1",
+		"AROMAID": "58"
+	},
+	{
+		"ID": "5457",
+		"COMPANYID": "7",
+		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου",
+		"ENABLED": "1",
+		"AROMAID": "58"
+	},
+	{
+		"ID": "5465",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "58"
+	},
+	{
+		"ID": "5467",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "58"
+	},
+	{
+		"ID": "5469",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "58"
+	},
+	{
+		"ID": "5470",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "58"
+	},
+	{
+		"ID": "5472",
+		"COMPANYID": "22",
+		"COMPANYTYPE": "Υπηρεσίες Εκπαίδευσης",
+		"ENABLED": "1",
+		"AROMAID": "58"
+	},
+	{
+		"ID": "5473",
+		"COMPANYID": "23",
+		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς",
+		"ENABLED": "1",
+		"AROMAID": "58"
+	},
+	{
+		"ID": "5474",
+		"COMPANYID": "24",
+		"COMPANYTYPE": "Υπηρεσίες Υγείας",
+		"ENABLED": "1",
+		"AROMAID": "58"
+	},
+	{
+		"ID": "5476",
+		"COMPANYID": "1",
+		"COMPANYTYPE": "Auto - Moto",
+		"ENABLED": "1",
+		"AROMAID": "59"
+	},
+	{
+		"ID": "5477",
+		"COMPANYID": "2",
+		"COMPANYTYPE": "Hobby (Κυνήγι-Αλιεία κτλ)",
+		"ENABLED": "1",
+		"AROMAID": "59"
+	},
+	{
+		"ID": "5478",
+		"COMPANYID": "3",
+		"COMPANYTYPE": "Pet Shop",
+		"ENABLED": "1",
+		"AROMAID": "59"
+	},
+	{
+		"ID": "5483",
+		"COMPANYID": "8",
+		"COMPANYTYPE": "Βιβλιοπωλείο",
+		"ENABLED": "1",
+		"AROMAID": "59"
+	},
+	{
+		"ID": "5484",
+		"COMPANYID": "9",
+		"COMPANYTYPE": "Γραφεία",
+		"ENABLED": "1",
+		"AROMAID": "59"
+	},
+	{
+		"ID": "5487",
+		"COMPANYID": "12",
+		"COMPANYTYPE": "Έπιπλα -Διακόσμηση",
+		"ENABLED": "1",
+		"AROMAID": "59"
+	},
+	{
+		"ID": "5489",
+		"COMPANYID": "14",
+		"COMPANYTYPE": "Ηλεκτρικά-Ηλεκτρονικά",
+		"ENABLED": "1",
+		"AROMAID": "59"
+	},
+	{
+		"ID": "5494",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "59"
+	},
+	{
+		"ID": "5495",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "59"
+	},
+	{
+		"ID": "5496",
+		"COMPANYID": "21",
+		"COMPANYTYPE": "Τυχερά Παιχνίδια",
+		"ENABLED": "1",
+		"AROMAID": "59"
+	},
+	{
+		"ID": "5499",
+		"COMPANYID": "24",
+		"COMPANYTYPE": "Υπηρεσίες Υγείας",
+		"ENABLED": "1",
+		"AROMAID": "59"
+	},
+	{
+		"ID": "5515",
+		"COMPANYID": "15",
+		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο",
+		"ENABLED": "1",
+		"AROMAID": "60"
+	},
+	{
+		"ID": "5517",
+		"COMPANYID": "17",
+		"COMPANYTYPE": "Ξενοδοχεία",
+		"ENABLED": "1",
+		"AROMAID": "60"
+	},
+	{
+		"ID": "5519",
+		"COMPANYID": "19",
+		"COMPANYTYPE": "Πολυκατάστημα",
+		"ENABLED": "1",
+		"AROMAID": "60"
+	},
+	{
+		"ID": "5520",
+		"COMPANYID": "20",
+		"COMPANYTYPE": "Σούπερ Μάρκετ",
+		"ENABLED": "1",
+		"AROMAID": "60"
+	} 
+]

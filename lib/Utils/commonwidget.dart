@@ -1,0 +1,162 @@
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter/rendering.dart';
+import 'package:flutter/widgets.dart';
+import 'package:perfumepicker/Models/aromaimages.dart';
+
+import 'package:rflutter_alert/rflutter_alert.dart';
+import 'package:url_launcher/url_launcher.dart';
+
+void launchURL(String url) async {
+  // const url = 'https://flutter.io';
+  if (await canLaunch(url)) {
+    await launch(url);
+  } else {
+    throw 'Could not launch $url';
+  }
+}
+
+void alertF(BuildContext context, String message) {
+  Alert(
+    context: context,
+    type: AlertType.warning,
+    title: "Warning",
+    desc: message,
+    buttons: [
+      DialogButton(
+        child: Text(
+          "Back",
+          style: TextStyle(color: Colors.white, fontSize: 20),
+        ),
+        onPressed: () => Navigator.pop(context),
+        gradient: LinearGradient(colors: [
+          Color.fromRGBO(116, 116, 191, 1.0),
+          Color.fromRGBO(52, 138, 199, 1.0)
+        ]),
+      )
+    ],
+  ).show();
+}
+
+// void alertF(BuildContext context, String message) {
+//   showDialog(
+//       context: context,
+//       builder: (BuildContext context) {
+//         return RichAlertDialog(
+//           alertTitle: richTitle("Warning"),
+//           alertSubtitle: richSubtitle(message),
+//           alertType: RichAlertType.WARNING,
+//           actions: <Widget>[
+//             FlatButton(
+//               child: Text("Back"),
+//               onPressed: () {
+//                 Navigator.pop(context);
+//               },
+//             ),
+//           ],
+//         );
+//       });
+// }
+
+void showDetails(BuildContext context, String aromaid) async {
+  var path = await getPath(context, aromaid);
+  showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        //  String path = 'assets/Images/';
+
+        print(path);
+        return Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: <Widget>[
+            Image(
+              image: AssetImage('assets/Images/$path'),
+              fit: BoxFit.scaleDown,
+            ),
+            // FlatButton(
+            //   child: Text("Back"),
+            //   onPressed: () {
+            //     Navigator.pop(context);
+            //   },
+            // ),
+          ],
+        );
+      });
+}
+
+Future<String> getPath(BuildContext context, String aromaId) async {
+  final path = await getImagePath(aromaId);
+  String res = "";
+  if (path.isEmpty)
+    res = "ScentPlus.PNG";
+  else
+    res = path;
+  return res;
+}
+
+class CommonAppBar extends StatelessWidget {
+  final String title;
+  final bool centerTitle;
+  final bool showDrawer;
+  final bool showLeading;
+
+  CommonAppBar(
+      {@required this.title,
+      this.centerTitle = true,
+      this.showDrawer = true,
+      this.showLeading = false});
+
+  @override
+  Widget build(BuildContext context) {
+    return AppBar(
+      title: Text(title),
+      centerTitle: centerTitle,
+    );
+  }
+}
+
+class BottomBar extends StatelessWidget {
+  final Function firstF;
+  final Function secondF;
+  final Function homeF;
+  final Icon firstIcon;
+  final Icon secondIcon;
+  final Icon homeIcon;
+
+  BottomBar(
+      {Key key,
+      @required this.firstIcon,
+      @required this.secondIcon,
+      this.homeIcon,
+      @required this.firstF,
+      @required this.secondF,
+      @required this.homeF})
+      : super(key: key);
+  @override
+  Widget build(BuildContext context) {
+    return BottomAppBar(
+      elevation: 10.0,
+      color: Theme.of(context).bottomAppBarColor,
+      child: Container(
+        height: 60.0,
+        child: Row(
+          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+          children: <Widget>[
+            IconButton(
+              icon: firstIcon,
+              onPressed: firstF,
+            ),
+            IconButton(
+              icon: homeIcon,
+              onPressed: homeF,
+            ),
+            IconButton(
+              icon: secondIcon,
+              onPressed: secondF,
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}

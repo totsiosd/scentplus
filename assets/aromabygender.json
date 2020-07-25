@@ -1,0 +1,387 @@
+[
+	{
+		"AROMADESCR": "ABER CROBIE ",
+		"ATTR": "ΑΝΔΡΙΚΟ",
+		"AROMAID": "1"
+	},
+	{
+		"AROMADESCR": "ACAPULCO HEAT ",
+		"ATTR": "UNISEX",
+		"AROMAID": "2"
+	},
+	{
+		"AROMADESCR": "ALLURE ",
+		"ATTR": "ΑΝΔΡΙΚΟ",
+		"AROMAID": "3"
+	},
+	{
+		"AROMADESCR": "AMOROUS ",
+		"ATTR": "UNISEX",
+		"AROMAID": "4"
+	},
+	{
+		"AROMADESCR": "ANGEL ",
+		"ATTR": "ΓΥΝΑΙΚΕΙΟ",
+		"AROMAID": "5"
+	},
+	{
+		"AROMADESCR": "ANTITOBACCO ",
+		"ATTR": "UNISEX",
+		"AROMAID": "6"
+	},
+	{
+		"AROMADESCR": "APOLLONIA ",
+		"ATTR": "ΑΝΔΡΙΚΟ",
+		"AROMAID": "7"
+	},
+	{
+		"AROMADESCR": "APPLE PIE & SPICE ",
+		"ATTR": "UNISEX",
+		"AROMAID": "8"
+	},
+	{
+		"AROMADESCR": "APRICOT GINGER TEA ",
+		"ATTR": "UNISEX",
+		"AROMAID": "9"
+	},
+	{
+		"AROMADESCR": "ARISTO ",
+		"ATTR": "ΑΝΔΡΙΚΟ",
+		"AROMAID": "10"
+	},
+	{
+		"AROMADESCR": "BABY POWDER ",
+		"ATTR": "UNISEX",
+		"AROMAID": "11"
+	},
+	{
+		"AROMADESCR": "BITTER ALMOND ",
+		"ATTR": "UNISEX",
+		"AROMAID": "12"
+	},
+	{
+		"AROMADESCR": "BLACK CHERRY ",
+		"ATTR": "UNISEX",
+		"AROMAID": "13"
+	},
+	{
+		"AROMADESCR": "BLACK ORCHID",
+		"ATTR": "ΓΥΝΑΙΚΕΙΟ",
+		"AROMAID": "14"
+	},
+	{
+		"AROMADESCR": "BRANDY APPLE",
+		"ATTR": "UNISEX",
+		"AROMAID": "15"
+	},
+	{
+		"AROMADESCR": "CAFÉ ",
+		"ATTR": "UNISEX",
+		"AROMAID": "16"
+	},
+	{
+		"AROMADESCR": "CALYPSO ",
+		"ATTR": "ΓΥΝΑΙΚΕΙΟ",
+		"AROMAID": "17"
+	},
+	{
+		"AROMADESCR": "CHEESECAKE ",
+		"ATTR": "UNISEX",
+		"AROMAID": "18"
+	},
+	{
+		"AROMADESCR": "CHOCOLATE ",
+		"ATTR": "UNISEX",
+		"AROMAID": "19"
+	},
+	{
+		"AROMADESCR": "CITY GIRL ",
+		"ATTR": "ΓΥΝΑΙΚΕΙΟ",
+		"AROMAID": "20"
+	},
+	{
+		"AROMADESCR": "COLONIAL ",
+		"ATTR": "ΓΥΝΑΙΚΕΙΟ",
+		"AROMAID": "21"
+	},
+	{
+		"AROMADESCR": "COOKIES ",
+		"ATTR": "UNISEX",
+		"AROMAID": "22"
+	},
+	{
+		"AROMADESCR": "CORAL ",
+		"ATTR": "UNISEX",
+		"AROMAID": "23"
+	},
+	{
+		"AROMADESCR": "CYCLADES",
+		"ATTR": "ΓΥΝΑΙΚΕΙΟ",
+		"AROMAID": "24"
+	},
+	{
+		"AROMADESCR": "DULCE DE LECHE ",
+		"ATTR": "UNISEX",
+		"AROMAID": "25"
+	},
+	{
+		"AROMADESCR": "EGYPTIAN COTTON",
+		"ATTR": "UNISEX",
+		"AROMAID": "26"
+	},
+	{
+		"AROMADESCR": "FRESH BAKED BREAD ",
+		"ATTR": "UNISEX",
+		"AROMAID": "27"
+	},
+	{
+		"AROMADESCR": "GLAMOUR ",
+		"ATTR": "ΓΥΝΑΙΚΕΙΟ",
+		"AROMAID": "28"
+	},
+	{
+		"AROMADESCR": "GRAPES ",
+		"ATTR": "UNISEX",
+		"AROMAID": "29"
+	},
+	{
+		"AROMADESCR": "GUAVA PINAPPLE ",
+		"ATTR": "UNISEX",
+		"AROMAID": "30"
+	},
+	{
+		"AROMADESCR": "HAYRIDE ",
+		"ATTR": "UNISEX",
+		"AROMAID": "31"
+	},
+	{
+		"AROMADESCR": "HAZELNUT COFFEE ",
+		"ATTR": "UNISEX",
+		"AROMAID": "32"
+	},
+	{
+		"AROMADESCR": "HERMES ",
+		"ATTR": "ΑΝΔΡΙΚΟ",
+		"AROMAID": "33"
+	},
+	{
+		"AROMADESCR": "HOTEL CLEAN & FRESH ",
+		"ATTR": "UNISEX",
+		"AROMAID": "34"
+	},
+	{
+		"AROMADESCR": "JEWEL OF THE NILE ",
+		"ATTR": "UNISEX",
+		"AROMAID": "35"
+	},
+	{
+		"AROMADESCR": "KITCHEN CLEAR",
+		"ATTR": "UNISEX",
+		"AROMAID": "36"
+	},
+	{
+		"AROMADESCR": "LEATHER BLEND ",
+		"ATTR": "UNISEX",
+		"AROMAID": "37"
+	},
+	{
+		"AROMADESCR": "LEMON VERBENA ",
+		"ATTR": "UNISEX",
+		"AROMAID": "38"
+	},
+	{
+		"AROMADESCR": "MANGO DELIGHT ",
+		"ATTR": "UNISEX",
+		"AROMAID": "39"
+	},
+	{
+		"AROMADESCR": "MARTINES ",
+		"ATTR": "ΑΝΔΡΙΚΟ",
+		"AROMAID": "40"
+	},
+	{
+		"AROMADESCR": "MARVELOUS MUSK ",
+		"ATTR": "ΓΥΝΑΙΚΕΙΟ",
+		"AROMAID": "41"
+	},
+	{
+		"AROMADESCR": "MELON FRESH ",
+		"ATTR": "UNISEX",
+		"AROMAID": "42"
+	},
+	{
+		"AROMADESCR": "MILLION ",
+		"ATTR": "ΑΝΔΡΙΚΟ",
+		"AROMAID": "43"
+	},
+	{
+		"AROMADESCR": "OBSESSION ",
+		"ATTR": "ΑΝΔΡΙΚΟ",
+		"AROMAID": "44"
+	},
+	{
+		"AROMADESCR": "ORIGINAL MANGO ",
+		"ATTR": "UNISEX",
+		"AROMAID": "45"
+	},
+	{
+		"AROMADESCR": "OUD WOOD",
+		"ATTR": "ΑΝΔΡΙΚΟ",
+		"AROMAID": "46"
+	},
+	{
+		"AROMADESCR": "P&S SIGNATURE ",
+		"ATTR": "ΑΝΔΡΙΚΟ",
+		"AROMAID": "47"
+	},
+	{
+		"AROMADESCR": "PATHOS ",
+		"ATTR": "ΑΝΔΡΙΚΟ",
+		"AROMAID": "48"
+	},
+	{
+		"AROMADESCR": "PEACH ",
+		"ATTR": "UNISEX",
+		"AROMAID": "49"
+	},
+	{
+		"AROMADESCR": "PINA COLADA ",
+		"ATTR": "UNISEX",
+		"AROMAID": "50"
+	},
+	{
+		"AROMADESCR": "PINE ",
+		"ATTR": "UNISEX",
+		"AROMAID": "51"
+	},
+	{
+		"AROMADESCR": "PIZZA ",
+		"ATTR": "UNISEX",
+		"AROMAID": "52"
+	},
+	{
+		"AROMADESCR": "RELAX",
+		"ATTR": "UNISEX",
+		"AROMAID": "53"
+	},
+	{
+		"AROMADESCR": "RISQUE",
+		"ATTR": "ΑΝΔΡΙΚΟ",
+		"AROMAID": "54"
+	},
+	{
+		"AROMADESCR": "STRAWBERRY DAQUIRI",
+		"ATTR": "UNISEX",
+		"AROMAID": "55"
+	},
+	{
+		"AROMADESCR": "TOBACCO VANILLA",
+		"ATTR": "ΑΝΔΡΙΚΟ",
+		"AROMAID": "56"
+	},
+	{
+		"AROMADESCR": "VANILLA ",
+		"ATTR": "UNISEX",
+		"AROMAID": "57"
+	},
+	{
+		"AROMADESCR": "VANILLA CARAMEL ",
+		"ATTR": "UNISEX",
+		"AROMAID": "58"
+	},
+	{
+		"AROMADESCR": "VITALITY AIR ",
+		"ATTR": "UNISEX",
+		"AROMAID": "59"
+	},
+	{
+		"AROMADESCR": "WHITE CHAMPAGNE ",
+		"ATTR": "UNISEX",
+		"AROMAID": "60"
+	},
+	{
+		"AROMADESCR": "PATHOS ",
+		"ATTR": "ΓΥΝΑΙΚΕΙΟ",
+		"AROMAID": "48"
+	},
+	{
+		"AROMADESCR": "ARISTO ",
+		"ATTR": "ΓΥΝΑΙΚΕΙΟ",
+		"AROMAID": "10"
+	},
+	{
+		"AROMADESCR": "ALLURE ",
+		"ATTR": "UNISEX",
+		"AROMAID": "3"
+	},
+	{
+		"AROMADESCR": "APOLLONIA ",
+		"ATTR": "UNISEX",
+		"AROMAID": "7"
+	},
+	{
+		"AROMADESCR": "ARISTO ",
+		"ATTR": "UNISEX",
+		"AROMAID": "10"
+	},
+	{
+		"AROMADESCR": "BLACK ORCHID",
+		"ATTR": "UNISEX",
+		"AROMAID": "14"
+	},
+	{
+		"AROMADESCR": "CALYPSO ",
+		"ATTR": "UNISEX",
+		"AROMAID": "17"
+	},
+	{
+		"AROMADESCR": "CYCLADES",
+		"ATTR": "UNISEX",
+		"AROMAID": "24"
+	},
+	{
+		"AROMADESCR": "HERMES ",
+		"ATTR": "UNISEX",
+		"AROMAID": "33"
+	},
+	{
+		"AROMADESCR": "MILLION ",
+		"ATTR": "UNISEX",
+		"AROMAID": "43"
+	},
+	{
+		"AROMADESCR": "OBSESSION ",
+		"ATTR": "UNISEX",
+		"AROMAID": "44"
+	},
+	{
+		"AROMADESCR": "OUD WOOD",
+		"ATTR": "UNISEX",
+		"AROMAID": "46"
+	},
+	{
+		"AROMADESCR": "PATHOS ",
+		"ATTR": "UNISEX",
+		"AROMAID": "48"
+	},
+	{
+		"AROMADESCR": "RISQUE",
+		"ATTR": "UNISEX",
+		"AROMAID": "54"
+	},
+	{
+		"AROMADESCR": "TOBACCO VANILLA",
+		"ATTR": "UNISEX",
+		"AROMAID": "56"
+	},
+	{
+		"AROMADESCR": "PATHOS ",
+		"ATTR": "UNISEX",
+		"AROMAID": "48"
+	},
+	{
+		"AROMADESCR": "ARISTO ",
+		"ATTR": "UNISEX",
+		"AROMAID": "10"
+	}
+]

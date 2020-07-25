@@ -1,0 +1,392 @@
+[
+	{
+		"IMAGENAME": "ABER CROMBIEeng.jpg",
+		"ITEMNAME": "ABER CROMBIE",
+		"ITEMCODE": "1"
+	},
+	{
+		"IMAGENAME": "ACAPULCO HEATeng.jpg",
+		"ITEMNAME": "ACAPULCO HEAT",
+		"ITEMCODE": "2"
+	},
+	{
+		"IMAGENAME": "ALLUREeng.jpg",
+		"ITEMNAME": "ALLURE",
+		"ITEMCODE": "3"
+	},
+	{
+		"IMAGENAME": "ALPS WCeng.jpg",
+		"ITEMNAME": "ALPS WC",
+		"ITEMCODE": ""
+	},
+	{
+		"IMAGENAME": "AMOROUSeng.jpg",
+		"ITEMNAME": "AMOROUS",
+		"ITEMCODE": "4"
+	},
+	{
+		"IMAGENAME": "ANGELeng.jpg",
+		"ITEMNAME": "ANGEL",
+		"ITEMCODE": "5"
+	},
+	{
+		"IMAGENAME": "ANTI TOBACCOeng.jpg",
+		"ITEMNAME": "ANTI TOBACCO",
+		"ITEMCODE": "6"
+	},
+	{
+		"IMAGENAME": "APOLLONIAeng.JPG",
+		"ITEMNAME": "APOLLONIA",
+		"ITEMCODE": "7"
+	},
+	{
+		"IMAGENAME": "APPLE PIE & SPICEeng.JPG",
+		"ITEMNAME": "APPLE PIE & SPICE",
+		"ITEMCODE": "8"
+	},
+	{
+		"IMAGENAME": "APRICOT GINGER TEAeng.jpg",
+		"ITEMNAME": "APRICOT GINGER TEA",
+		"ITEMCODE": "9"
+	},
+	{
+		"IMAGENAME": "ARISTOeng.jpg",
+		"ITEMNAME": "ARISTO",
+		"ITEMCODE": "10"
+	},
+	{
+		"IMAGENAME": "AWAKE AROMATHERAPYeng.jpg",
+		"ITEMNAME": "AWAKE AROMATHERAPY",
+		"ITEMCODE": ""
+	},
+	{
+		"IMAGENAME": "BABY POWDEReng.jpg",
+		"ITEMNAME": "BABY POWDER",
+		"ITEMCODE": "11"
+	},
+	{
+		"IMAGENAME": "BITTER ALMONDeng.jpg",
+		"ITEMNAME": "BITTER ALMOND",
+		"ITEMCODE": "12"
+	},
+	{
+		"IMAGENAME": "BLACK CHERRYeng.jpg",
+		"ITEMNAME": "BLACK CHERRY",
+		"ITEMCODE": "13"
+	},
+	{
+		"IMAGENAME": "BRANDY APPLEeng.jpg",
+		"ITEMNAME": "BRANDY APPLE",
+		"ITEMCODE": "15"
+	},
+	{
+		"IMAGENAME": "CAFEeng.jpg",
+		"ITEMNAME": "CAFE",
+		"ITEMCODE": "16"
+	},
+	{
+		"IMAGENAME": "CALYPSOeng.jpg",
+		"ITEMNAME": "CALYPSO",
+		"ITEMCODE": "17"
+	},
+	{
+		"IMAGENAME": "CARAMELeng.jpg",
+		"ITEMNAME": "CARAMEL",
+		"ITEMCODE": ""
+	},
+	{
+		"IMAGENAME": "CARIBBEAN SUNeng.jpg",
+		"ITEMNAME": "CARIBBEAN SUN",
+		"ITEMCODE": ""
+	},
+	{
+		"IMAGENAME": "CHEESECAKEeng.jpg",
+		"ITEMNAME": "CHEESECAKE",
+		"ITEMCODE": "18"
+	},
+	{
+		"IMAGENAME": "CHOCOLATEeng.jpg",
+		"ITEMNAME": "CHOCOLATE",
+		"ITEMCODE": "19"
+	},
+	{
+		"IMAGENAME": "CITY GIRLeng.jpg",
+		"ITEMNAME": "CITY GIRL",
+		"ITEMCODE": "20"
+	},
+	{
+		"IMAGENAME": "COOKIESeng.jpg",
+		"ITEMNAME": "COOKIES",
+		"ITEMCODE": "22"
+	},
+	{
+		"IMAGENAME": "CORALeng.jpg",
+		"ITEMNAME": "CORAL",
+		"ITEMCODE": "23"
+	},
+	{
+		"IMAGENAME": "CYCLADESeng.jpg",
+		"ITEMNAME": "CYCLADES",
+		"ITEMCODE": "24"
+	},
+	{
+		"IMAGENAME": "DARK ROSE LIQUIDeng.jpg",
+		"ITEMNAME": "DARK ROSE LIQUID",
+		"ITEMCODE": ""
+	},
+	{
+		"IMAGENAME": "DEWY PINE LIQUIDeng.jpg",
+		"ITEMNAME": "DEWY PINE LIQUID",
+		"ITEMCODE": ""
+	},
+	{
+		"IMAGENAME": "DOLCE DE LECHEeng.jpg",
+		"ITEMNAME": "DOLCE DE LECHE",
+		"ITEMCODE": "25"
+	},
+	{
+		"IMAGENAME": "FLORAL MIX LIQUIDeng.jpg",
+		"ITEMNAME": "FLORAL MIX LIQUID",
+		"ITEMCODE": ""
+	},
+	{
+		"IMAGENAME": "FLORAL WCeng.jpg",
+		"ITEMNAME": "FLORAL WC",
+		"ITEMCODE": ""
+	},
+	{
+		"IMAGENAME": "FRESH BAKED BREADeng.jpg",
+		"ITEMNAME": "FRESH BAKED BREAD",
+		"ITEMCODE": "27"
+	},
+	{
+		"IMAGENAME": "FRIED ICE CREAMeng.jpg",
+		"ITEMNAME": "FRIED ICE CREAM",
+		"ITEMCODE": ""
+	},
+	{
+		"IMAGENAME": "GARDENIA BOUQUET LIQUIDeng.jpg",
+		"ITEMNAME": "GARDENIA BOUQUET LIQUID",
+		"ITEMCODE": ""
+	},
+	{
+		"IMAGENAME": "GLAMOUReng.jpg",
+		"ITEMNAME": "GLAMOUR",
+		"ITEMCODE": "28"
+	},
+	{
+		"IMAGENAME": "GOLDEN GRAPEFRUITeng.jpg",
+		"ITEMNAME": "GOLDEN GRAPEFRUIT",
+		"ITEMCODE": ""
+	},
+	{
+		"IMAGENAME": "GRAPESeng.jpg",
+		"ITEMNAME": "GRAPES",
+		"ITEMCODE": "29"
+	},
+	{
+		"IMAGENAME": "GREEK SWEETeng.jpg",
+		"ITEMNAME": "GREEK SWEET",
+		"ITEMCODE": ""
+	},
+	{
+		"IMAGENAME": "GUAVA PINEAPPLEeng.jpg",
+		"ITEMNAME": "GUAVA PINEAPPLE",
+		"ITEMCODE": "30"
+	},
+	{
+		"IMAGENAME": "HAYRIDEeng.jpg",
+		"ITEMNAME": "HAYRIDE",
+		"ITEMCODE": "31"
+	},
+	{
+		"IMAGENAME": "HAZELNUT COFFEEeng.jpg",
+		"ITEMNAME": "HAZELNUT COFFEE",
+		"ITEMCODE": "32"
+	},
+	{
+		"IMAGENAME": "HERMESeng.jpg",
+		"ITEMNAME": "HERMES",
+		"ITEMCODE": "33"
+	},
+	{
+		"IMAGENAME": "HOTEL CLEAN & FRESH LINENeng.jpg",
+		"ITEMNAME": "HOTEL CLEAN & FRESH LINEN",
+		"ITEMCODE": "34"
+	},
+	{
+		"IMAGENAME": "JEWEL OF THE NILEeng.jpg",
+		"ITEMNAME": "JEWEL OF THE NILE",
+		"ITEMCODE": "35"
+	},
+	{
+		"IMAGENAME": "LEATHER BLENDeng.jpg",
+		"ITEMNAME": "LEATHER BLEND",
+		"ITEMCODE": "37"
+	},
+	{
+		"IMAGENAME": "LILAC VALLEYeng.jpg",
+		"ITEMNAME": "LILAC VALLEY",
+		"ITEMCODE": ""
+	},
+	{
+		"IMAGENAME": "MANGO DELIGHTeng.jpg",
+		"ITEMNAME": "MANGO DELIGHT",
+		"ITEMCODE": "39"
+	},
+	{
+		"IMAGENAME": "MARTINESeng.jpg",
+		"ITEMNAME": "MARTINES",
+		"ITEMCODE": "40"
+	},
+	{
+		"IMAGENAME": "MARVELOUS MUSKeng.jpg",
+		"ITEMNAME": "MARVELOUS MUSK",
+		"ITEMCODE": "41"
+	},
+	{
+		"IMAGENAME": "MELON FRESHeng.jpg",
+		"ITEMNAME": "MELON FRESH",
+		"ITEMCODE": "42"
+	},
+	{
+		"IMAGENAME": "MILLIONeng.jpg",
+		"ITEMNAME": "MILLION",
+		"ITEMCODE": "43"
+	},
+	{
+		"IMAGENAME": "OASIS WCeng.jpg",
+		"ITEMNAME": "OASIS WC",
+		"ITEMCODE": ""
+	},
+	{
+		"IMAGENAME": "OBSESSIONeng.jpg",
+		"ITEMNAME": "OBSESSION",
+		"ITEMCODE": "44"
+	},
+	{
+		"IMAGENAME": "ORANGE COFFEEeng.jpg",
+		"ITEMNAME": "ORANGE COFFEE",
+		"ITEMCODE": ""
+	},
+	{
+		"IMAGENAME": "ORIGINAL MANGO 2eng.jpg",
+		"ITEMNAME": "ORIGINAL MANGO 2",
+		"ITEMCODE": "45"
+	},
+	{
+		"IMAGENAME": "P&S SIGNATUREeng.jpg",
+		"ITEMNAME": "P&S SIGNATURE",
+		"ITEMCODE": "47"
+	},
+	{
+		"IMAGENAME": "PATHOSeng.jpg",
+		"ITEMNAME": "PATHOS",
+		"ITEMCODE": "48"
+	},
+	{
+		"IMAGENAME": "PEACHeng.jpg",
+		"ITEMNAME": "PEACH",
+		"ITEMCODE": "49"
+	},
+	{
+		"IMAGENAME": "PINA COLADAeng.jpg",
+		"ITEMNAME": "PINA COLADA",
+		"ITEMCODE": "50"
+	},
+	{
+		"IMAGENAME": "PINEeng.jpg",
+		"ITEMNAME": "PINE",
+		"ITEMCODE": "51"
+	},
+	{
+		"IMAGENAME": "PIZZAeng.jpg",
+		"ITEMNAME": "PIZZA",
+		"ITEMCODE": "52"
+	},
+	{
+		"IMAGENAME": "RELAX AROMATHERAPYeng.jpg",
+		"ITEMNAME": "RELAX AROMATHERAPY",
+		"ITEMCODE": "53"
+	},
+	{
+		"IMAGENAME": "RISQUE AROMATHERAPYeng.jpg",
+		"ITEMNAME": "RISQUE AROMATHERAPY",
+		"ITEMCODE": "54"
+	},
+	{
+		"IMAGENAME": "ROYAL FRESH LIQUIDeng.jpg",
+		"ITEMNAME": "ROYAL FRESH LIQUID",
+		"ITEMCODE": ""
+	},
+	{
+		"IMAGENAME": "STRAWBERRY DAIQUIRIeng.jpg",
+		"ITEMNAME": "STRAWBERRY DAQUIRI",
+		"ITEMCODE": "55"
+	},
+	{
+		"IMAGENAME": "TENDER WCeng.jpg",
+		"ITEMNAME": "TENDER WC",
+		"ITEMCODE": ""
+	},
+	{
+		"IMAGENAME": "TOM FORD BLACK ORCHIDeng.jpg",
+		"ITEMNAME": "TOM FORD BLACK ORCHID",
+		"ITEMCODE": ""
+	},
+	{
+		"IMAGENAME": "TOM FORD OUD WOODeng.jpg",
+		"ITEMNAME": "TOM FORD OUD WOOD",
+		"ITEMCODE": ""
+	},
+	{
+		"IMAGENAME": "TOM FORD TOBACCO VANILLAeng.jpg",
+		"ITEMNAME": "TOM FORD TOBACCO VANILLA",
+		"ITEMCODE": ""
+	},
+	{
+		"IMAGENAME": "VANILLA CARAMELeng.jpg",
+		"ITEMNAME": "VANILLA CARAMEL",
+		"ITEMCODE": "58"
+	},
+	{
+		"IMAGENAME": "VANILLA WCeng.jpg",
+		"ITEMNAME": "VANILLA WC",
+		"ITEMCODE": ""
+	},
+	{
+		"IMAGENAME": "VERBENAeng.jpg",
+		"ITEMNAME": "VERBENA",
+		"ITEMCODE": ""
+	},
+	{
+		"IMAGENAME": "VITALITY AIReng.jpg",
+		"ITEMNAME": "VITALITY AIR",
+		"ITEMCODE": "59"
+	},
+	{
+		"IMAGENAME": "WHITE BOUQUET WCeng.jpg",
+		"ITEMNAME": "WHITE BOUQUET WC",
+		"ITEMCODE": ""
+	},
+	{
+		"IMAGENAME": "WHITE PEACH CHAMPAGNEeng.jpg",
+		"ITEMNAME": "WHITE PEACH CHAMPAGNE",
+		"ITEMCODE": "60"
+	},
+	{
+		"IMAGENAME": "WILD CHERRY WCeng.jpg",
+		"ITEMNAME": "WILD CHERRY WC",
+		"ITEMCODE": ""
+	},
+	{
+		"IMAGENAME": "WILD ROSEeng.jpg",
+		"ITEMNAME": "WILD ROSE",
+		"ITEMCODE": ""
+	},
+	{
+		"IMAGENAME": "WOMAN'S MYSTIQUEeng.jpg",
+		"ITEMNAME": "WOMAN'S MYSTIQUE",
+		"ITEMCODE": ""
+	}
+]
