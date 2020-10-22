@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:perfumepicker/Models/aromalistmodel.dart';
 import 'package:perfumepicker/Utils/commonwidget.dart';
 import 'package:percent_indicator/percent_indicator.dart';
+import 'package:perfumepicker/generated/l10n.dart';
 
 class ResultList extends StatefulWidget {
   ResultList({Key key}) : super(key: key);
@@ -20,9 +21,8 @@ class _ResultListState extends State<ResultList> {
     aromaIds = args['aromaIds'];
 
     return Scaffold(
-        appBar: AppBar(
-          title: Text("Results"),
-          automaticallyImplyLeading: false,
+        appBar: CommonAppBar(
+          title: S.of(context).results,
           centerTitle: true,
         ),
         body: Padding(
@@ -40,12 +40,12 @@ class _ResultListState extends State<ResultList> {
                     style: TextStyle(color: Colors.red, fontSize: 18.0),
                   ));
                 }
-                List<AromaList> aromata = snapshot.data ?? [];
-                aromata.sort((a, b) => b.intense.compareTo(a.intense));
+                List<Aroma> aromata = snapshot.data ?? [];
+                //  aromata.sort((a, b) => b.intense.compareTo(a.intense));
                 return ListView.builder(
                   itemCount: aromata.length,
                   itemBuilder: (context, index) {
-                    AromaList aroma = aromata[index];
+                    Aroma aroma = aromata[index];
                     switch (aroma.intense) {
                       case "1":
                         perc = 20.0;
@@ -80,7 +80,7 @@ class _ResultListState extends State<ResultList> {
                           center: new Text(
                             "${perc.round()}%",
                             style: new TextStyle(
-                                fontWeight: FontWeight.bold, fontSize: 7.0),
+                                fontWeight: FontWeight.bold, fontSize: 9.0),
                           ),
                         ),
                         /*CircleAvatar(

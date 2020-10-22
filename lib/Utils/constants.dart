@@ -1,0 +1,6 @@
+const String GREEKLANGUAGECODE = 'el';
+const String ENGLISHLANGUAGECODE = 'en';
+const String BULGARIANLANGUAGECODE = 'bg';
+const String GREEKCOUNTRYCODE = 'GR';
+const String ENGLISHCOUNTRYCODE = 'US';
+const String BULGARIANCOUNTRYCODE = 'BG';

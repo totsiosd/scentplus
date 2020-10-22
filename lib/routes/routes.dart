@@ -1,0 +1,9 @@
+const String homeRoute = '/home';
+const String choosePlace = '/choosePlace';
+const String chooseGender = '/chooseGender';
+const String chooseAge = '/chooseAge';
+const String chooseGiveOff = '/chooseGiveoff';
+const String chooseMessage = '/chooseMessage';
+const String resultList = '/resultList';
+const String synopsisRoute = '/synopsis';
+const String settingsRoute = 'settingsPage';

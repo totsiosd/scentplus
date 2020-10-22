@@ -5,15 +5,18 @@ import 'package:perfumepicker/Models/getaromabycompanymodel.dart';
 import 'package:grouped_buttons/grouped_buttons.dart';
 import 'package:perfumepicker/Utils/commonwidget.dart';
 import 'package:auto_size_text/auto_size_text.dart';
+import 'package:perfumepicker/generated/l10n.dart';
+import 'package:perfumepicker/routes/routes.dart';
 
 class ChoosePlacePage extends StatefulWidget {
-  ChoosePlacePage({Key key}) : super(key: key);
-
+  ChoosePlacePage({this.locale, Key key}) : super(key: key);
+  final Locale locale;
   @override
   _ChoosePlacePageState createState() => _ChoosePlacePageState();
 }
 
 class _ChoosePlacePageState extends State<ChoosePlacePage> {
+  Map attr = {};
   List<String> synopsisList = [];
   List<String> places = [];
   List<String> aromaIds = [];
@@ -21,7 +24,7 @@ class _ChoosePlacePageState extends State<ChoosePlacePage> {
 
   String _selectedPlace;
   _getPlaces() {
-    loadPlaces().then((val) => setState(() {
+    loadPlaces(widget.locale).then((val) => setState(() {
           places = val;
           //  places.sort((v1,v2){return v1.compareTo(v2);});
         }));
@@ -36,13 +39,14 @@ class _ChoosePlacePageState extends State<ChoosePlacePage> {
   @override
   Widget build(BuildContext context) {
     // List<String> places = await loadPlaces();
+
     double cwidth = MediaQuery.of(context).size.width * 0.9;
     return Scaffold(
-        appBar: AppBar(
-          title: Text("Choose a place"),
-          automaticallyImplyLeading: false,
+        appBar: CommonAppBar(
+          title: S.of(context).choosePlace,
           centerTitle: true,
-          actions: <Widget>[],
+          showDrawer: false,
+          showLeading: false,
         ),
         body: Container(
           padding: const EdgeInsets.all(8.0),
@@ -70,11 +74,12 @@ class _ChoosePlacePageState extends State<ChoosePlacePage> {
               },
               onSelected: (String selected) => setState(() {
                 aromaIds = [];
+
                 _selectedPlace = selected;
-                getPlaceID(_selectedPlace).then((v) {
+                getPlaceID(widget.locale, _selectedPlace).then((v) {
                   _res = v;
                 }).then((_) {
-                  loadAromata(_selectedPlace).then((list) {
+                  loadAromata(widget.locale, _selectedPlace).then((list) {
                     list.forEach((f) {
                       aromaIds.add(f);
                     });
@@ -95,7 +100,7 @@ class _ChoosePlacePageState extends State<ChoosePlacePage> {
   }
 
   void _alertF() {
-    alertF(context, "No place selected!");
+    alertF(context, S.of(context).noPlaceSelected);
   }
 
   void _firstF() {
@@ -103,11 +108,12 @@ class _ChoosePlacePageState extends State<ChoosePlacePage> {
   }
 
   void _secF() async {
-    List<String> genders = await loadGenderList(aromaIds);
+    List<String> genders = await loadGenderList(widget.locale, aromaIds);
     synopsisList = [];
-    synopsisList.add("Place: " + _selectedPlace);
+    synopsisList.add(S.of(context).synopsisPlace + _selectedPlace);
     print(synopsisList);
-    Navigator.of(context).pushNamed('/chooseGender', arguments: {
+    Navigator.pushNamed(context, chooseGender, arguments: {
+      'locale': widget.locale,
       'aromaIds': aromaIds,
       'placeId': _res,
       'genders': genders,
@@ -116,6 +122,6 @@ class _ChoosePlacePageState extends State<ChoosePlacePage> {
   }
 
   void _homeF() {
-    Navigator.of(context).pushNamedAndRemoveUntil('/home', (route) => false);
+    Navigator.pushNamedAndRemoveUntil(context, homeRoute, (route) => false);
   }
 }

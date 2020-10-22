@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:perfumepicker/Utils/commonwidget.dart';
+import 'package:perfumepicker/generated/l10n.dart';
 
 class SynopsisPage extends StatefulWidget {
   SynopsisPage({Key key}) : super(key: key);
@@ -22,9 +23,8 @@ class _SynopsisPageState extends State<SynopsisPage> {
     synopsisList = attr['synopsis'];
 
     return Scaffold(
-      appBar: AppBar(
-        title: Text("Synopsis"),
-        automaticallyImplyLeading: false,
+      appBar: CommonAppBar(
+        title: S.of(context).synopsis,
         centerTitle: true,
       ),
       body: Padding(

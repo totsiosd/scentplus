@@ -3,10 +3,11 @@ import 'package:flutter/material.dart';
 import 'package:perfumepicker/Utils/commonwidget.dart';
 import 'package:perfumepicker/Models/getagemodel.dart';
 import 'package:perfumepicker/Models/getgiveoffmodel.dart';
+import 'package:perfumepicker/generated/l10n.dart';
 
 class ChooseAge extends StatefulWidget {
-  ChooseAge({Key key}) : super(key: key);
-
+  ChooseAge({this.locale, Key key}) : super(key: key);
+  final Locale locale;
   @override
   _ChooseAgeState createState() => _ChooseAgeState();
 }
@@ -26,15 +27,15 @@ class _ChooseAgeState extends State<ChooseAge> {
     synopsisList = attr['synopsis'];
 
     return Scaffold(
-        appBar: AppBar(
-          title: Text("Choose Age"),
-          automaticallyImplyLeading: false,
+        appBar: CommonAppBar(
+          title: S.of(context).chooseAge,
           centerTitle: true,
         ),
         body: ListView(padding: EdgeInsets.fromLTRB(40, 20, 40, 0), children: [
           Padding(
             padding: EdgeInsets.fromLTRB(20, 20, 20, 0),
             child: CustomCheckBoxGroup(
+              enableShape: true,
               buttonColor: Theme.of(context).canvasColor,
               buttonLables: ages,
               buttonValuesList: ages,
@@ -49,7 +50,7 @@ class _ChooseAgeState extends State<ChooseAge> {
               },
               horizontal: true,
               width: 70,
-              selectedColor: Theme.of(context).textSelectionHandleColor,
+              selectedColor: Theme.of(context).accentColor,
               padding: 10,
             ),
           ),
@@ -69,18 +70,19 @@ class _ChooseAgeState extends State<ChooseAge> {
   }
 
   void _alertF() {
-    alertF(context, "No age selected!");
+    alertF(context, S.of(context).noAgeSelected);
   }
 
   void _secF() async {
     List<String> newAromaIds = [];
     List<String> giveOffs = []; //This list is passed to the next page
-    synopsisList.removeWhere((i) => (i.contains("Age: ")));
-    synopsisList.add("Age: " + selection.toString());
-    newAromaIds = await getAromaAgeIds(selection, aromaIds);
+    synopsisList.removeWhere((i) => (i.contains(S.of(context).synopsisAge)));
+    synopsisList.add(S.of(context).synopsisAge + selection.toString());
+    newAromaIds = await getAromaAgeIds(widget.locale, selection, aromaIds);
     giveOffs = await loadGiveOffList(
-        aromaIds); //get valid selection values for the next page
+        widget.locale, aromaIds); //get valid selection values for the next page
     Navigator.of(context).pushNamed('/chooseGiveoff', arguments: {
+      'locale': widget.locale,
       'aromaIds': newAromaIds,
       'ages': selection,
       'giveOffs': giveOffs,

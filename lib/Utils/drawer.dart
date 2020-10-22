@@ -6,6 +6,8 @@ class AppDrawer extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Drawer(
+      elevation: 20,
+      semanticLabel: "IDSS",
       child: ListView(
         // Important: Remove any padding from the ListView.
         padding: EdgeInsets.zero,
@@ -26,12 +28,12 @@ class AppDrawer extends StatelessWidget {
               '(C) IDSS Intelligent Services',
               style: TextStyle(
                   fontStyle: FontStyle.italic,
-                  fontSize: 10.0,
+                  fontSize: 32.0,
                   decoration: TextDecoration.underline,
                   decorationColor: Colors.blue),
             ),
             onTap: () async {
-              launchURL('http://www.idss.gr');
+              launchURL(context, 'http://www.idss.gr');
             },
           ),
         ],

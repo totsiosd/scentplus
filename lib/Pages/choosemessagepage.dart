@@ -2,9 +2,12 @@ import 'package:custom_radio_grouped_button/CustomButtons/CustomCheckBoxGroup.da
 import 'package:flutter/material.dart';
 import 'package:perfumepicker/Utils/commonwidget.dart';
 import 'package:perfumepicker/Models/getmessagetypemodel.dart';
+import 'package:perfumepicker/generated/l10n.dart';
 
 class ChooseMessage extends StatefulWidget {
-  ChooseMessage({Key key}) : super(key: key);
+  final Locale locale;
+
+  ChooseMessage({this.locale, Key key}) : super(key: key);
 
   @override
   _ChooseMessageState createState() => _ChooseMessageState();
@@ -23,9 +26,8 @@ class _ChooseMessageState extends State<ChooseMessage> {
     messageTypes = attr['messageTypes'];
     synopsisList = attr['synopsis'];
     return Scaffold(
-        appBar: AppBar(
-          title: Text("Choose Message"),
-          automaticallyImplyLeading: false,
+        appBar: CommonAppBar(
+          title: S.of(context).chooseMessage,
           centerTitle: true,
         ),
         body: ListView(
@@ -34,6 +36,7 @@ class _ChooseMessageState extends State<ChooseMessage> {
               Padding(
                 padding: EdgeInsets.fromLTRB(20, 20, 20, 0),
                 child: CustomCheckBoxGroup(
+                  enableShape: true,
                   buttonColor: Theme.of(context).canvasColor,
                   buttonLables: messageTypes,
                   buttonValuesList: messageTypes,
@@ -68,18 +71,20 @@ class _ChooseMessageState extends State<ChooseMessage> {
   }
 
   void _alertF() {
-    alertF(context, "No message selected!");
+    alertF(context, S.of(context).noMessageSelected);
   }
 
   void _secF() async {
     List<String> newAromaIds = [];
     print(synopsisList);
-    synopsisList.removeWhere((i) => (i.contains("Message: ")));
+    synopsisList
+        .removeWhere((i) => (i.contains(S.of(context).synopsisMessage)));
 
     print(synopsisList);
 
-    synopsisList.add("Message: " + selection.toString());
-    newAromaIds = await getAromaMessageTypeIds(selection, aromaIds);
+    synopsisList.add(S.of(context).synopsisMessage + selection.toString());
+    newAromaIds =
+        await getAromaMessageTypeIds(widget.locale, selection, aromaIds);
 
     Navigator.of(context).pushNamed('/synopsis', arguments: {
       'aromaIds': newAromaIds,

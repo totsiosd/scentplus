@@ -3,9 +3,12 @@ import 'package:flutter/material.dart';
 import 'package:perfumepicker/Utils/commonwidget.dart';
 import 'package:perfumepicker/Models/getgiveoffmodel.dart';
 import 'package:perfumepicker/Models/getmessagetypemodel.dart';
+import 'package:perfumepicker/generated/l10n.dart';
 
 class ChooseGiveoff extends StatefulWidget {
-  ChooseGiveoff({Key key}) : super(key: key);
+  final Locale locale;
+
+  ChooseGiveoff({this.locale, Key key}) : super(key: key);
 
   @override
   _ChooseGiveoffState createState() => _ChooseGiveoffState();
@@ -25,9 +28,8 @@ class _ChooseGiveoffState extends State<ChooseGiveoff> {
     giveOffs = attr['giveOffs'];
     synopsisList = attr['synopsis'];
     return Scaffold(
-        appBar: AppBar(
-          title: Text("Choose Giveoff"),
-          automaticallyImplyLeading: false,
+        appBar: CommonAppBar(
+          title: S.of(context).chooseGiveoff,
           centerTitle: true,
         ),
         body: ListView(
@@ -36,6 +38,7 @@ class _ChooseGiveoffState extends State<ChooseGiveoff> {
               Padding(
                 padding: EdgeInsets.fromLTRB(20, 20, 20, 0),
                 child: CustomCheckBoxGroup(
+                  enableShape: true,
                   buttonColor: Theme.of(context).canvasColor,
                   buttonLables: giveOffs,
                   buttonValuesList: giveOffs,
@@ -70,17 +73,19 @@ class _ChooseGiveoffState extends State<ChooseGiveoff> {
   }
 
   void _alertF() {
-    alertF(context, "No giveoff selected!");
+    alertF(context, S.of(context).noGiveoffSelected);
   }
 
   void _secF() async {
     List<String> newAromaIds = [];
     List<String> messageTypes = [];
-    synopsisList.removeWhere((i) => (i.contains("Giveoff: ")));
-    synopsisList.add("Giveoff: " + selection.toString());
-    newAromaIds = await getAromaGiveOffIds(selection, aromaIds);
-    messageTypes = await loadMessageTypeList(aromaIds);
+    synopsisList
+        .removeWhere((i) => (i.contains(S.of(context).synopsisGiveoff)));
+    synopsisList.add(S.of(context).synopsisGiveoff + selection.toString());
+    newAromaIds = await getAromaGiveOffIds(widget.locale, selection, aromaIds);
+    messageTypes = await loadMessageTypeList(widget.locale, aromaIds);
     Navigator.of(context).pushNamed('/chooseMessage', arguments: {
+      'locale': widget.locale,
       'aromaIds': newAromaIds,
       'ages': selection,
       'messageTypes': messageTypes,

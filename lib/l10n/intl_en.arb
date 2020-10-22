@@ -1,0 +1,31 @@
+{
+"appTitle":"Perfume picker",
+"startButton":"Start",
+"choosePlace":"Choose a place",
+"noPlaceSelected":"No place selected!",
+"chooseGender":"Choose gender",
+"noGenderSelected":"No gender selected!",
+"chooseGiveoff":"Choose give off",
+"noGiveoffSelected":"No give off selected!",
+"chooseAge":"Choose age",
+"noAgeSelected":"No age selected!",
+"chooseMessage":"Choose message",
+"noMessageSelected":"No message selected!",
+"synopsis":"Synopsis",
+"synopsisPlace":"Place :",
+"synopsisGender":"Gender :",
+"synopsisAge":"Age :",
+"synopsisGiveoff":"Give off :",
+"synopsisMessage":"Message :",
+"results":"Results",
+"settingsPage":"Settings Page",
+"gotoSettingsPage":"Settings page",
+"goBack":"Return",
+"languagedescription":"Selected language {name} and  the country code is {countryCode}",
+"selectTheme":"Select theme",
+"selectLanguage":"Select language" ,
+"alertWarning":"Warning!",
+"URLFail":"Could not launch {url}"
+
+
+}

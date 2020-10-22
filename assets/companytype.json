@@ -1,102 +1,127 @@
 [
 	{
 		"ID": "1",
-		"COMPANYTYPE": "Auto - Moto"
+		"CompanyTypeEN": "Auto - Moto",
+		"CompanyType": "Auto - Moto"
 	},
 	{
 		"ID": "2",
-		"COMPANYTYPE": "Hobby (Κυνήγι-Αλιεία κτλ)"
+		"CompanyTypeEN": "Hobby Store (hunting-fishing etc)",
+		"CompanyType": "Hobby (Κυνήγι-Αλιεία κτλ)"
 	},
 	{
 		"ID": "3",
-		"COMPANYTYPE": "Pet Shop"
+		"CompanyTypeEN": "Pet Shop",
+		"CompanyType": "Pet Shop"
 	},
 	{
 		"ID": "4",
-		"COMPANYTYPE": "Ανθοπωλεία"
+		"CompanyTypeEN": "Flower Shop",
+		"CompanyType": "Ανθοπωλεία"
 	},
 	{
 		"ID": "5",
-		"COMPANYTYPE": "Αξεσουάρ - Κόσμημα"
+		"CompanyTypeEN": "Jewelery - Accesorise",
+		"CompanyType": "Αξεσουάρ - Κόσμημα"
 	},
 	{
 		"ID": "6",
-		"COMPANYTYPE": "Αρτοποιείο - Ζαχ/πλαστείο"
+		"CompanyTypeEN": "Bakery - Pastry",
+		"CompanyType": "Αρτοποιείο - Ζαχ/πλαστείο"
 	},
 	{
 		"ID": "7",
-		"COMPANYTYPE": "Βαπτιστικά-Είδη Γάμου"
+		"CompanyTypeEN": "Bridal Shop",
+		"CompanyType": "Βαπτιστικά-Είδη Γάμου"
 	},
 	{
 		"ID": "8",
-		"COMPANYTYPE": "Βιβλιοπωλείο"
+		"CompanyTypeEN": "Bookshop",
+		"CompanyType": "Βιβλιοπωλείο"
 	},
 	{
 		"ID": "9",
-		"COMPANYTYPE": "Γραφεία"
+		"CompanyTypeEN": "Offices",
+		"CompanyType": "Γραφεία"
 	},
 	{
 		"ID": "10",
-		"COMPANYTYPE": "Είδη Καπνιστών"
+		"CompanyTypeEN": "Tobacco Store",
+		"CompanyType": "Είδη Καπνιστών"
 	},
 	{
 		"ID": "11",
-		"COMPANYTYPE": "Ενδύματα"
+		"CompanyTypeEN": "Clothing",
+		"CompanyType": "Ενδύματα"
 	},
 	{
 		"ID": "12",
-		"COMPANYTYPE": "Έπιπλα -Διακόσμηση"
+		"CompanyTypeEN": "Decoration - Furniture",
+		"CompanyType": "Έπιπλα -Διακόσμηση"
 	},
 	{
 		"ID": "13",
-		"COMPANYTYPE": "Εσώρουχα"
+		"CompanyTypeEN": "Lingerie",
+		"CompanyType": "Εσώρουχα"
 	},
 	{
 		"ID": "14",
-		"COMPANYTYPE": "Ηλεκτρικά-Ηλεκτρονικά"
+		"CompanyTypeEN": "Electronics - Appliances",
+		"CompanyType": "Ηλεκτρικά-Ηλεκτρονικά"
 	},
 	{
 		"ID": "15",
-		"COMPANYTYPE": "Καφέ-Μπαρ-Εστιατόριο"
+		"CompanyTypeEN": "Restaurant - Café - Bar",
+		"CompanyType": "Καφέ-Μπαρ-Εστιατόριο"
 	},
 	{
 		"ID": "16",
-		"COMPANYTYPE": "Κινηματογράφος-Θέατρο-Ψυχαγωγία"
+		"CompanyTypeEN": "Cinema - Theatre etc",
+		"CompanyType": "Κινημαογράφος-Θέατρο-Ψυχαγωγία"
 	},
 	{
 		"ID": "17",
-		"COMPANYTYPE": "Ξενοδοχεία"
+		"CompanyTypeEN": "Hotels - Hospitality",
+		"CompanyType": "Ξενοδοχεία"
 	},
 	{
 		"ID": "18",
-		"COMPANYTYPE": "Οπτικά"
+		"CompanyTypeEN": "Optics Store",
+		"CompanyType": "Οπτικά"
 	},
 	{
 		"ID": "19",
-		"COMPANYTYPE": "Πολυκατάστημα"
+		"CompanyTypeEN": "Department Store",
+		"CompanyType": "Πολυκατάστημα"
 	},
 	{
 		"ID": "20",
-		"COMPANYTYPE": "Σούπερ Μάρκετ"
+		"CompanyTypeEN": "Super Market - Food Shops",
+		"CompanyType": "Σούπερ Μάρκετ"
 	},
 	{
 		"ID": "21",
-		"COMPANYTYPE": "Τυχερά Παιχνίδια"
+		"CompanyTypeEN": "Gambling",
+		"CompanyType": "Τυχερά Παιχνίδια"
 	},
 	{
 		"ID": "22",
-		"COMPANYTYPE": "Υπηρεσίες Εκπαίδευσης"
+		"CompanyTypeEN": "Education",
+		"CompanyType": "Υπηρεσίες Εκπαίδευσης"
 	},
 	{
 		"ID": "23",
-		"COMPANYTYPE": "Υπηρεσίες Ευεξίας - Ομορφιάς"
+		"CompanyTypeEN": "Beauty - Wellbeing",
+		"CompanyType": "Υπηρεσίες Ευεξίας - Ομορφιάς"
 	},
 	{
 		"ID": "24",
-		"COMPANYTYPE": "Υπηρεσίες Υγείας"
+		"CompanyTypeEN": "Healthcare",
+		"CompanyType": "Υπηρεσίες Υγείας"
 	},
 	{
 		"ID": "25",
-		"COMPANYTYPE": "Υποδήματα"
+		"CompanyTypeEN": "Shoe store",
+		"CompanyType": "Υποδήματα"
 	} 
 ]

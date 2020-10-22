@@ -3,10 +3,11 @@ import 'package:perfumepicker/Models/getagemodel.dart';
 import 'package:perfumepicker/Models/getgendermodel.dart';
 import 'package:perfumepicker/Utils/commonwidget.dart';
 import 'package:custom_radio_grouped_button/custom_radio_grouped_button.dart';
+import 'package:perfumepicker/generated/l10n.dart';
 
 class ChooseGender extends StatefulWidget {
-  ChooseGender({Key key}) : super(key: key);
-
+  ChooseGender({this.locale, Key key}) : super(key: key);
+  final Locale locale;
   @override
   _ChooseGenderState createState() => _ChooseGenderState();
 }
@@ -33,15 +34,15 @@ class _ChooseGenderState extends State<ChooseGender> {
     synopsisList = attr['synopsis'];
 
     return Scaffold(
-        appBar: AppBar(
-          title: Text("Choose gender"),
-          automaticallyImplyLeading: false,
+        appBar: CommonAppBar(
+          title: S.of(context).chooseGender,
           centerTitle: true,
         ),
         body: ListView(padding: EdgeInsets.fromLTRB(40, 20, 40, 0), children: [
           Padding(
             padding: EdgeInsets.fromLTRB(20, 20, 20, 0),
             child: CustomCheckBoxGroup(
+              enableShape: true,
               buttonColor: Theme.of(context).canvasColor,
               buttonLables: genders,
               buttonValuesList: genders,
@@ -56,7 +57,7 @@ class _ChooseGenderState extends State<ChooseGender> {
               },
               horizontal: true,
               width: 70,
-              selectedColor: Theme.of(context).textSelectionHandleColor,
+              selectedColor: Theme.of(context).accentColor,
               padding: 10,
             ),
           ),
@@ -76,19 +77,21 @@ class _ChooseGenderState extends State<ChooseGender> {
   }
 
   void _alertF() {
-    alertF(context, "No gender selected!");
+    alertF(context, S.of(context).noGenderSelected);
   }
 
   void _secF() async {
     List<String> newAromaIds = []; //Aroma ids after the current selections
     List<String> ages = []; //This list is passed to the next page
-    synopsisList.removeWhere((i) => (i.contains("Gender: ")));
-    synopsisList.add("Gender: " + selection.toString());
+    synopsisList.removeWhere((i) => (i.contains(S.of(context).synopsisGender)));
+    synopsisList.add(S.of(context).synopsisAge + selection.toString());
     print(synopsisList);
-    newAromaIds = await getAromaGenderIds(selection, aromaIds); //Finding ids
+    newAromaIds = await getAromaGenderIds(
+        widget.locale, selection, aromaIds); //Finding ids
     ages = await loadAgeList(
-        aromaIds); //get valid selection values for the next page
+        widget.locale, aromaIds); //get valid selection values for the next page
     Navigator.of(context).pushNamed('/chooseAge', arguments: {
+      'locale': widget.locale,
       'aromaIds': newAromaIds,
       'genders': selection,
       'ages': ages,
